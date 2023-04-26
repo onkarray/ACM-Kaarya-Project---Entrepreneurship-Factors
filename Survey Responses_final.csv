@@ -1,0 +1,502 @@
+﻿Timestamp,Which college are you from?,City,Public/Private,CAPS,KEY,Education,  Is anyone from your family into Entrepreneurship?  ,Which year of college are you in currently? ,It’s easy to find the right mentor in college for my startup. ,My college and college clubs develop my entrepreneurial skills and abilities ,My institution has introduced courses in order to keep us in touch with growing wave of entrepreneurship in the country ,My family would support me if I shift my focus to unconventional or entrepreneurial activities ,If I decide to be an entrepreneur family support will be an important factor for me ,I’ll readily get mental and executional support from my peers for my venture ,It is easy for me to get funding for my startup from alumni or outside ,My country has created an ecosystem that enables young entrepreneurs to pursue their passion ,My college is located in a city which is active in entrepreneurship ,How likely are you to take up entrepreneurship as a career? ,diff_Q1,diff_Q2,diff_Q3,diff_Q4,diff_Q5,diff_Q6,diff_Q7,diff_Q8,diff_Q9,Educational,Relational,Structural,diff_Edu,diff_Rel,diff_Str
+3-13-2023 15:44:10,Jamia Milia Islamia,Delhi,Public,Jamia Milia Islamia,1,"Engineering, Science, Management, Design and Humanities",Mother,2,1,1,1,1,5,3,1,2,5,2,1,1,1,1,-3,-1,1,0,-3,1,3,2.67,1,-1,-0.67
+3-13-2023 15:43:09,Jamia Milia Islamia ,Delhi,Public,JAMIA MILIA ISLAMIA ,1,"Engineering, Science, Management, Design and Humanities",No One,3,1,1,1,1,1,3,1,2,4,1,0,0,0,0,0,-2,0,-1,-3,1,1.67,2.33,0,-0.67,-1.33
+3-13-2023 16:05:43,Hindu college ,Delhi,Public,HINDU COLLEGE ,2,"Engineering, Science, Management, Design and Humanities",No One,2,3,4,2,1,5,3,4,2,5,1,-2,-3,-1,0,-4,-2,-3,-1,-4,3,3,3.67,-2,-2,-2.67
+3-13-2023 16:06:36,Hindu College ,Delhi,Public,HINDU COLLEGE ,2,"Engineering, Science, Management, Design and Humanities",Father,4,3,4,2,5,5,5,5,3,5,5,2,1,3,0,0,0,0,2,0,3,5,4.33,2,0,0.67
+3-13-2023 16:13:38,Anna University ,Chennai,Public,ANNA UNIVERSITY ,3,"Engineering, Science, Management, Design and Humanities",No One,1,2,2,1,3,5,1,4,3,2,1,-1,-1,0,-2,-4,0,-3,-2,-1,1.67,3,3,-0.67,-2,-2
+3-13-2023 16:15:02,Anna University ,Chennai,Public,ANNA UNIVERSITY ,3,"Engineering, Science, Management, Design and Humanities",Sibling,3,2,3,2,5,5,5,5,3,1,3,1,0,1,-2,-2,-2,-2,0,2,2.33,5,3,0.67,-2,0
+03-02-2023 07:05,BITS,Pilani,Private,BITS,4,"Engineering, Science, Management, Design and Humanities",No One,2,4,4,3,4,4,4,4,4,3,3,-1,-1,0,-1,-1,-1,-1,-1,0,3.67,4,3.67,-0.67,-1,-0.67
+03-02-2023 07:04,Bits ,Pilani,Private,BITS ,4,"Engineering, Science, Management, Design and Humanities",Sibling,2,5,4,4,5,5,5,5,5,4,5,0,1,1,0,0,0,0,0,1,4.33,5,4.67,0.67,0,0.33
+3-13-2023 17:33:08,BITS ,Pilani,Private,BITS ,4,"Engineering, Science, Management, Design and Humanities",No One,4,5,5,4,4,5,4,4,4,2,5,0,0,1,1,0,1,1,1,3,4.67,4.33,3.33,0.33,0.67,1.67
+2-25-2023 11:17:38,BITS Pilani,Pilani,Private,BITS PILANI,4,"Engineering, Science, Management, Design and Humanities",No One,4,5,5,5,1,4,4,5,3,1,3,-2,-2,-2,2,-1,-1,-2,0,2,5,3,3,-2,0,0
+2-25-2023 11:20:45,BITS Pilani,Pilani,Private,BITS PILANI,4,"Engineering, Science, Management, Design and Humanities",Father,3,5,4,3,5,5,4,5,4,1,3,-2,-1,0,-2,-2,-1,-2,-1,2,4,4.67,3.33,-1,-1.67,-0.33
+2-25-2023 11:48:27,BITS Pilani,Pilani,Private,BITS PILANI,4,"Engineering, Science, Management, Design and Humanities",Father,4,5,5,5,5,5,5,5,5,1,4,-1,-1,-1,-1,-1,-1,-1,-1,3,5,5,3.67,-1,-1,0.33
+03-03-2023 19:11,BITS Pilani,Pilani,Private,BITS PILANI,4,"Engineering, Science, Management, Design and Humanities",Father,2,5,5,5,4,3,4,4,4,4,4,-1,-1,-1,0,1,0,0,0,0,5,3.67,4,-1,0.33,0
+03-03-2023 19:12,BITS Pilani,Pilani,Private,BITS PILANI,4,"Engineering, Science, Management, Design and Humanities",No One,3,4,4,5,3,4,4,4,4,3,4,0,0,-1,1,0,0,0,0,1,4.33,3.67,3.67,-0.33,0.33,0.33
+03-05-2023 15:50,BITS pilani,Pilani,Private,BITS PILANI,4,"Engineering, Science, Management, Design and Humanities",No One,3,4,4,4,4,5,5,4,4,2,5,1,1,1,1,0,0,1,1,3,4,4.67,3.33,1,0.33,1.67
+3-13-2023 15:17:33,Bits pilani,Pilani,Private,BITS PILANI,4,"Engineering, Science, Management, Design and Humanities",No One,1,4,4,3,4,4,3,4,5,1,4,0,0,1,0,0,1,0,-1,3,3.67,3.67,3.33,0.33,0.33,0.67
+3-13-2023 19:36:55,BITS PILANI,Pilani,Private,BITS PILANI,4,"Engineering, Science, Management, Design and Humanities",No One,4,4,4,3,5,5,5,4,4,2,5,1,1,2,0,0,0,1,1,3,3.67,5,3.33,1.33,0,1.67
+3-13-2023 15:35:38,bits pilani ,Pilani,Private,BITS PILANI ,4,"Engineering, Science, Management, Design and Humanities",No One,3,2,2,2,2,5,3,1,2,1,1,-1,-1,-1,-1,-4,-2,0,-1,0,2,3.33,1.33,-1,-2.33,-0.33
+3-13-2023 15:44:15,"BITS, Pilani",Pilani,Private,"BITS, PILANI",4,"Engineering, Science, Management, Design and Humanities",Father,2,5,5,5,5,5,5,5,5,5,5,0,0,0,0,0,0,0,0,0,5,5,5,0,0,0
+2-25-2023 11:23:49,BITS Goa,Sancoale,Private,BITS GOA,5,"Engineering, Science, Management, Design and Humanities",Grandparents,5,4,4,3,5,5,3,4,3,2,4,0,0,1,-1,-1,1,0,1,2,3.67,4.33,3,0.33,-0.33,1
+03-03-2023 16:53,Bits Goa,Sancoale,Private,BITS GOA,5,"Engineering, Science, Management, Design and Humanities",No One,2,1,3,3,4,4,3,2,4,3,3,2,0,0,-1,-1,0,1,-1,0,2.33,3.67,3,0.67,-0.67,0
+03-06-2023 14:38,BITS goa,Sancoale,Private,BITS GOA,5,"Engineering, Science, Management, Design and Humanities",No One,1,4,4,3,2,3,3,3,5,1,3,-1,-1,0,1,0,0,0,-2,2,3.67,2.67,3,-0.67,0.33,0
+3-13-2023 15:18:09,BITS Goa,Sancoale,Private,BITS GOA,5,"Engineering, Science, Management, Design and Humanities",No One,4,4,4,3,4,1,4,4,3,2,3,-1,-1,0,-1,2,-1,-1,0,1,3.67,3,3,-0.67,0,0
+3-13-2023 17:46:45,bits Goa,Sancoale,Private,BITS GOA,5,"Engineering, Science, Management and Humanities",No One,4,3,4,3,4,4,4,3,4,2,4,1,0,1,0,0,0,1,0,2,3.33,4,3,0.67,0,1
+3-13-2023 19:35:52,BITS goa,Sancoale,Private,BITS GOA,5,"Engineering, Science, Management and Humanities",No One,3,3,4,2,3,3,4,3,3,3,4,1,0,2,1,1,0,1,1,1,3,3.33,3,1,0.67,1
+3-13-2023 20:08:53,BITS GOA,Sancoale,Private,BITS GOA,5,"Engineering, Science, Management and Humanities",Sibling,3,3,4,2,4,4,4,3,4,2,4,1,0,2,0,0,0,1,0,2,3,4,3,1,0,1
+3-13-2023 15:45:04,"BITS, Goa",Sancoale,Private,"BITS, GOA",5,"Engineering, Science, Management and Humanities",Mother,1,5,5,5,5,5,5,5,5,5,5,0,0,0,0,0,0,0,0,0,5,5,5,0,0,0
+3-13-2023 15:46:06,"BITS, Goa",Sancoale,Private,"BITS, GOA",5,"Engineering, Science, Management and Humanities",Sibling,3,4,5,4,5,4,5,4,4,4,5,1,0,1,0,1,0,1,1,1,4.33,4.67,4,0.67,0.33,1
+2-25-2023 11:22:03,BITS Hyderabad,Hyderabad,Private,BITS HYDERABAD,6,"Engineering, Science, Management and Humanities",No One,3,3,3,2,4,2,3,3,5,5,2,-1,-1,0,-2,0,-1,-1,-3,-3,2.67,3,4.33,-0.67,-1,-2.33
+03-03-2023 16:43,Bits Hyderabad,Hyderabad,Private,BITS HYDERABAD,6,"Engineering, Science, Management and Humanities",Father,4,3,3,3,4,4,4,3,4,5,3,0,0,0,-1,-1,-1,0,-1,-2,3,4,4,0,-1,-1
+03-06-2023 14:26,BITS Hyderabad ,Hyderabad,Private,BITS HYDERABAD ,6,"Engineering, Science, Management and Humanities",No One,4,4,3,3,2,4,4,3,3,4,5,1,2,2,3,1,1,2,2,1,3.33,3.33,3.33,1.67,1.67,1.67
+03-06-2023 16:40,BITS HYDERABAD ,Hyderabad,Private,BITS HYDERABAD ,6,"Engineering, Science, Management and Humanities",No One,4,3,3,3,4,4,5,3,4,4,3,0,0,0,-1,-1,-2,0,-1,-1,3,4.33,3.67,0,-1.33,-0.67
+3-13-2023 15:18:45,bits Hyderabad ,Hyderabad,Private,BITS HYDERABAD ,6,"Engineering, Science, Management and Humanities",Father,4,2,2,2,3,5,3,3,1,1,2,0,0,0,-1,-3,-1,-1,1,1,2,3.67,1.67,0,-1.67,0.33
+3-13-2023 15:56:39,bits Hyderabad ,Hyderabad,Private,BITS HYDERABAD ,6,"Engineering, Science, Management and Humanities",No One,3,3,3,2,4,4,4,3,4,2,3,0,0,1,-1,-1,-1,0,-1,1,2.67,4,3,0.33,-1,0
+3-13-2023 19:35:11,BITS HYDERABAD ,Hyderabad,Private,BITS HYDERABAD ,6,"Engineering, Science, Management and Humanities",No One,1,3,3,2,3,4,4,3,3,4,4,1,1,2,1,0,0,1,1,0,2.67,3.67,3.33,1.33,0.33,0.67
+3-13-2023 20:08:08,BITS HYDERABAD ,Hyderabad,Private,BITS HYDERABAD ,6,"Engineering, Science, Management and Humanities",No One,4,3,3,2,4,5,4,3,4,4,4,1,1,2,0,-1,0,1,0,0,2.67,4.33,3.67,1.33,-0.33,0.33
+03-02-2023 07:07,COEP,Pune,Public,COEP,7,"Engineering, Science, Management and Humanities",No One,2,3,3,3,5,4,4,3,4,5,4,1,1,1,-1,0,0,1,0,-1,3,4.33,4,1,-0.33,0
+03-03-2023 16:31,Coep,Pune,Public,COEP,7,"Engineering, Science, Management and Humanities",No One,2,3,3,3,5,5,3,3,4,4,4,1,1,1,-1,-1,1,1,0,0,3,4.33,3.67,1,-0.33,0.33
+03-10-2023 11:51,COEP,Pune,Public,COEP,7,"Engineering, Science, Management and Humanities",No One,2,3,3,3,4,4,2,2,3,5,2,-1,-1,-1,-2,-2,0,0,-1,-3,3,3.33,3.33,-1,-1.33,-1.33
+03-10-2023 11:51,COEP,Pune,Public,COEP,7,"Engineering, Science, Management and Humanities",No One,2,2,3,3,4,3,4,4,4,4,4,2,1,1,0,1,0,0,0,0,2.67,3.67,4,1.33,0.33,0
+3-13-2023 17:18:19,COEP,Pune,Public,COEP,7,"Engineering, Science, Management and Humanities",Father,2,3,3,3,3,4,4,2,4,4,4,1,1,1,1,0,0,2,0,0,3,3.67,3.33,1,0.33,0.67
+3-13-2023 19:33:51,COEP,Pune,Public,COEP,7,"Engineering, Science, Management and Humanities",No One,4,5,5,5,5,5,5,5,5,5,5,0,0,0,0,0,0,0,0,0,5,5,5,0,0,0
+2-27-2023 13:40:26,Hansraj college ,Delhi,Public,HANSRAJ COLLEGE ,8,"Engineering, Science, Management and Humanities",No One,2,2,1,1,2,2,2,1,3,3,4,2,3,3,2,2,2,3,1,1,1.33,2,2.33,2.67,2,1.67
+3-13-2023 15:59:20,Hansraj College ,Delhi,Public,HANSRAJ COLLEGE ,8,"Engineering, Science, Management and Humanities",No One,2,4,3,3,3,5,4,5,2,5,4,0,1,1,1,-1,0,-1,2,-1,3.33,4,4,0.67,0,0
+3-13-2023 15:59:55,Hansraj College ,Delhi,Public,HANSRAJ COLLEGE ,8,"Engineering, Science, Management and Humanities",Father,3,2,4,2,5,5,3,4,2,5,5,3,1,3,0,0,2,1,3,0,2.67,4.33,3.67,2.33,0.67,1.33
+2-27-2023 17:38:13,IISc,Bangalore,Public,IISC,9,"Engineering, Science, Management and Humanities",No One,3,3,2,1,2,4,3,1,4,5,2,-1,0,1,0,-2,-1,1,-2,-3,2,3,3.33,0,-1,-1.33
+2-27-2023 17:46:12,IISC,Bangalore,Public,IISC,9,"Engineering, Science, Humanities and Social Sciences",No One,2,4,3,2,4,5,3,3,4,5,3,-1,0,1,-1,-2,0,0,-1,-2,3,4,4,0,-1,-1
+03-03-2023 16:16,IISc,Bangalore,Public,IISC,9,"Engineering, Science, Humanities and Social Sciences",No One,3,3,2,2,3,5,3,3,4,5,2,-1,0,0,-1,-3,-1,-1,-2,-3,2.33,3.67,4,-0.33,-1.67,-2
+02-08-2023 17:32,IIT Bombay,Mumbai,Public,IIT BOMBAY,10,"Engineering, Science, Humanities and Social Sciences",No One,2,1,1,1,5,3,1,1,1,4,5,4,4,4,0,2,4,4,4,1,1,3,2,4,2,3
+02-09-2023 22:03,IIT Bombay,Mumbai,Public,IIT BOMBAY,10,"Engineering, Science, Humanities and Social Sciences",No One,3,2,4,5,3,4,4,3,4,5,4,2,0,-1,1,0,0,1,0,-1,3.67,3.67,4,0.33,0.33,0
+02-09-2023 23:14,IIT Bombay,Mumbai,Public,IIT BOMBAY,10,"Engineering, Science and Humanities",Father,5,4,4,3,5,5,4,5,4,5,4,0,0,1,-1,-1,0,-1,0,-1,3.67,4.67,4.67,0.33,-0.67,-0.67
+2-26-2023 14:53:39,IIT Bombay,Mumbai,Public,IIT BOMBAY,10,"Engineering, Science and Humanities",No One,2,4,3,1,4,5,5,4,4,5,4,0,1,3,0,-1,-1,0,0,-1,2.67,4.67,4.33,1.33,-0.67,-0.33
+2-26-2023 14:54:39,IIT Bombay,Mumbai,Public,IIT BOMBAY,10,"Engineering, Science and Humanities",No One,2,4,4,2,4,5,5,5,5,5,3,-1,-1,1,-1,-2,-2,-2,-2,-2,3.33,4.67,5,-0.33,-1.67,-2
+03-03-2023 16:26,Iit bombay,Mumbai,Public,IIT BOMBAY,10,"Engineering, Science and Humanities",Sibling,1,5,4,4,4,4,3,3,3,3,3,-2,-1,-1,-1,-1,0,0,0,0,4.33,3.67,3,-1.33,-0.67,0
+03-03-2023 19:12,IIT Bombay,Mumbai,Public,IIT BOMBAY,10,"Engineering, Science and Humanities",No One,2,4,5,5,3,4,5,4,3,5,5,1,0,0,2,1,0,1,2,0,4.67,4,4,0.33,1,1
+03-06-2023 23:36,IIT Bombay,Mumbai,Public,IIT BOMBAY,10,"Engineering, Science and Humanities",Father,4,4,5,5,3,4,4,4,5,5,2,-2,-3,-3,-1,-2,-2,-2,-3,-3,4.67,3.67,4.67,-2.67,-1.67,-2.67
+03-10-2023 13:10,IIT Bombay,Mumbai,Public,IIT BOMBAY,10,"Engineering, Science and Humanities",No One,2,4,5,5,3,4,5,5,4,5,4,0,-1,-1,1,0,-1,-1,0,-1,4.67,4,4.67,-0.67,0,-0.67
+3-13-2023 19:34:14,IIT Bombay,Mumbai,Public,IIT BOMBAY,10,"Engineering, Science and Humanities",No One,2,5,5,5,5,5,5,4,4,5,5,0,0,0,0,0,0,1,1,0,5,5,4.33,0,0,0.67
+3-13-2023 19:34:39,IIT Bombay,Mumbai,Public,IIT BOMBAY,10,"Engineering, Science and Humanities",Father,2,5,5,5,5,5,5,5,5,5,5,0,0,0,0,0,0,0,0,0,5,5,5,0,0,0
+02-08-2023 17:30,IIT Bombay ,Mumbai,Public,IIT BOMBAY ,10,"Engineering, Science and Humanities",No One,2,4,5,5,5,5,4,3,3,5,4,0,-1,-1,-1,-1,0,1,1,-1,4.67,4.67,3.67,-0.67,-0.67,0.33
+02-09-2023 11:22,IIT BOMBAY ,Mumbai,Public,IIT BOMBAY ,10,"Engineering, Science and Humanities",Father,1,4,5,5,5,5,3,4,4,5,4,0,-1,-1,-1,-1,1,0,0,-1,4.67,4.33,4.33,-0.67,-0.33,-0.33
+02-09-2023 14:04,Iit bombay ,Mumbai,Public,IIT BOMBAY ,10,"Engineering, Science and Humanities",No One,2,3,4,5,3,3,2,3,4,5,5,2,1,0,2,2,3,2,1,0,4,2.67,4,1,2.33,1
+02-09-2023 21:35,IIT BOMBAY ,Mumbai,Public,IIT BOMBAY ,10,"Engineering, Science and Humanities",No One,1,1,3,5,5,5,2,4,4,5,5,4,2,0,0,0,3,1,1,0,3,4,4.33,2,1,0.67
+02-12-2023 12:56,IIT Bombay ,Mumbai,Public,IIT BOMBAY ,10,"Engineering, Science and Humanities",Sibling,2,3,2,4,1,5,3,4,2,4,4,1,2,0,3,-1,1,0,2,0,3,3,3.33,1,1,0.67
+2-28-2023 13:15:47,IIT Bombay ,Mumbai,Public,IIT BOMBAY ,10,"Engineering, Science and Humanities",No One,3,4,4,3,2,4,4,5,4,4,4,0,0,1,2,0,0,-1,0,0,3.67,3.33,4.33,0.33,0.67,-0.33
+03-06-2023 23:36,IIT Bombay ,Mumbai,Public,IIT BOMBAY ,10,"Engineering, Science and Humanities",No One,4,5,5,5,4,4,5,4,4,5,4,-1,-1,-1,0,0,-1,0,0,-1,5,4.33,4.33,-1,-0.33,-0.33
+03-10-2023 13:10,IIT Bombay ,Mumbai,Public,IIT BOMBAY ,10,"Engineering, Science and Humanities",Father,1,5,5,5,4,5,5,5,4,5,5,0,0,0,1,0,0,0,1,0,5,4.67,4.67,0,0.33,0.33
+03-10-2023 13:11,IIT Bombay ,Mumbai,Public,IIT BOMBAY ,10,"Engineering, Science and Humanities",Grandparents,3,4,5,5,2,3,4,4,4,5,4,0,-1,-1,2,1,0,0,0,-1,4.67,3,4.33,-0.67,1,-0.33
+03-10-2023 13:11,IIT Bombay ,Mumbai,Public,IIT BOMBAY ,10,"Engineering, Science and Humanities",No One,3,4,4,4,3,3,4,4,4,5,3,-1,-1,-1,0,0,-1,-1,-1,-2,4,3.33,4.33,-1,-0.33,-1.33
+03-10-2023 13:12,IIT Bombay ,Mumbai,Public,IIT BOMBAY ,10,"Engineering, Science and Humanities",No One,4,4,5,5,5,5,5,5,5,5,5,1,0,0,0,0,0,0,0,0,4.67,5,5,0.33,0,0
+2-25-2023 11:16:46,IITB,Mumbai,Public,IITB,10,"Engineering, Science and Humanities",Father,1,5,4,2,2,3,5,5,3,5,5,0,1,3,3,2,0,0,2,0,3.67,3.33,4.33,1.33,1.67,0.67
+2-25-2023 11:47:51,IITB,Mumbai,Public,IITB,10,"Engineering, Science, Management and Humanities",Mother,1,5,4,3,5,5,5,5,4,5,5,0,1,2,0,0,0,0,1,0,4,5,4.67,1,0,0.33
+2-25-2023 12:24:20,IITB,Mumbai,Public,IITB,10,"Engineering, Science, Management and Humanities",No One,3,5,4,4,3,4,4,5,4,4,4,-1,0,0,1,0,0,-1,0,0,4.33,3.67,4.33,-0.33,0.33,-0.33
+2-27-2023 16:38:18,IITB,Mumbai,Public,IITB,10,"Engineering, Science, Management and Humanities",No One,3,4,4,4,4,4,4,4,4,4,4,0,0,0,0,0,0,0,0,0,4,4,4,0,0,0
+03-03-2023 16:15,IITB,Mumbai,Public,IITB,10,"Engineering, Science, Management and Humanities",Sibling,2,5,4,3,3,4,5,4,4,4,5,0,1,2,2,1,0,1,1,1,4,4,4,1,1,1
+3-13-2023 17:13:33,iitb,Mumbai,Public,IITB,10,"Engineering, Science, Management and Humanities",Father,4,4,4,4,4,4,4,4,4,4,4,0,0,0,0,0,0,0,0,0,4,4,4,0,0,0
+3-13-2023 19:35:02,IITB,Mumbai,Public,IITB,10,"Engineering, Science, Management and Humanities",No One,2,5,5,5,5,5,5,5,5,5,5,0,0,0,0,0,0,0,0,0,5,5,5,0,0,0
+3-13-2023 19:35:26,IITB,Mumbai,Public,IITB,10,"Engineering, Science, Management and Humanities",No One,2,5,5,5,5,5,5,4,5,5,5,0,0,0,0,0,0,1,0,0,5,5,4.67,0,0,0.33
+3-13-2023 19:35:53,IITB,Mumbai,Public,IITB,10,"Engineering, Science, Management and Humanities",No One,2,5,5,5,5,5,5,5,5,5,5,0,0,0,0,0,0,0,0,0,5,5,5,0,0,0
+3-13-2023 19:46:07,IITB,Mumbai,Public,IITB,10,"Engineering, Science, Humanities and Social Sciences",No One,5,5,5,5,5,5,5,5,5,5,5,0,0,0,0,0,0,0,0,0,5,5,5,0,0,0
+3-13-2023 19:46:26,IITB,Mumbai,Public,IITB,10,"Engineering, Science, Humanities and Social Sciences",No One,2,5,5,5,5,5,4,5,5,5,5,0,0,0,0,0,1,0,0,0,5,4.67,5,0,0.33,0
+3-13-2023 19:47:10,IITB,Mumbai,Public,IITB,10,"Engineering, Science, Humanities and Social Sciences",No One,2,4,4,4,4,4,4,4,4,4,5,1,1,1,1,1,1,1,1,1,4,4,4,1,1,1
+3-13-2023 19:47:45,IITB,Mumbai,Public,IITB,10,"Engineering, Science, Humanities and Social Sciences",No One,2,4,4,4,4,4,4,4,4,4,4,0,0,0,0,0,0,0,0,0,4,4,4,0,0,0
+3-13-2023 20:05:14,IITB,Mumbai,Public,IITB,10,"Engineering, Science, Humanities and Social Sciences",Grandparents,4,4,4,3,4,5,5,5,5,5,5,1,1,2,1,0,0,0,0,0,3.67,4.67,5,1.33,0.33,0
+02-08-2023 18:35,IITB ,Mumbai,Public,IITB ,10,"Engineering, Science, Humanities and Social Sciences",No One,2,3,2,2,3,2,3,3,3,2,3,0,1,1,0,1,0,0,0,1,2.33,2.67,2.67,0.67,0.33,0.33
+02-08-2023 17:46,IITBOMBAY ,Mumbai,Public,IITBOMBAY ,10,"Engineering, Science, Humanities and Social Sciences",No One,2,3,3,5,5,5,4,3,1,5,3,0,0,-2,-2,-2,-1,0,2,-2,3.67,4.67,3,-0.67,-1.67,0
+02-08-2023 17:31,Indian institute of technology Bombay ,Mumbai,Public,INDIAN INSTITUTE OF TECHNOLOGY BOMBAY ,10,"Engineering, Science, Humanities and Social Sciences",No One,2,3,5,5,2,4,5,4,1,5,5,2,0,0,3,1,0,1,4,0,4.33,3.67,3.33,0.67,1.33,1.67
+03-03-2023 23:33,IIT delhi,Delhi,Public,IIT DELHI,11,"Engineering, Science, Humanities and Social Sciences",No One,3,4,5,4,4,4,4,4,3,5,4,0,-1,0,0,0,0,0,1,-1,4.33,4,4,-0.33,0,0
+03-03-2023 23:34,IIT Delhi,Delhi,Public,IIT DELHI,11,"Engineering, Science, Humanities and Social Sciences",Father,2,5,5,5,4,5,4,4,4,4,4,-1,-1,-1,0,-1,0,0,0,0,5,4.33,4,-1,-0.33,0
+03-06-2023 23:34,IIT delhi,Delhi,Public,IIT DELHI,11,"Engineering, Science, Humanities and Social Sciences",Father,2,4,4,5,5,5,5,5,4,5,4,0,0,-1,-1,-1,-1,-1,0,-1,4.33,5,4.67,-0.33,-1,-0.67
+2-27-2023 10:36:58,IIT Delhi ,Delhi,Public,IIT DELHI ,11,"Engineering, Science, Humanities and Social Sciences",No One,2,5,5,3,3,4,4,5,5,5,3,-2,-2,0,0,-1,-1,-2,-2,-2,4.33,3.67,5,-1.33,-0.67,-2
+2-27-2023 10:38:08,IIT Delhi ,Delhi,Public,IIT DELHI ,11,"Engineering, Science, Management and Humanities",Father,4,5,5,3,5,5,5,5,2,5,5,0,0,2,0,0,0,0,3,0,4.33,5,4,0.67,0,1
+03-06-2023 23:35,IIT Delhi ,Delhi,Public,IIT DELHI ,11,"Engineering, Science, Management and Humanities",No One,1,4,4,4,4,4,4,4,4,4,3,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,4,4,-1,-1,-1
+03-10-2023 14:01,IIT Delhi ,Delhi,Public,IIT DELHI ,11,"Engineering, Science, Management and Humanities",No One,3,4,4,5,4,4,4,4,4,4,4,0,0,-1,0,0,0,0,0,0,4.33,4,4,-0.33,0,0
+03-10-2023 14:02,IIT Delhi ,Delhi,Public,IIT DELHI ,11,"Engineering, Science, Management and Humanities",No One,3,4,4,4,3,4,4,5,4,4,3,-1,-1,-1,0,-1,-1,-2,-1,-1,4,3.67,4.33,-1,-0.67,-1.33
+03-10-2023 14:03,IIT Delhi ,Delhi,Public,IIT DELHI ,11,"Engineering, Science, Management and Humanities",Grandparents,2,3,5,5,2,4,4,4,3,5,3,0,-2,-2,1,-1,-1,-1,0,-2,4.33,3.33,4,-1.33,-0.33,-1
+03-10-2023 14:04,IIT delhi ,Delhi,Public,IIT DELHI ,11,"Engineering, Science, Management and Humanities",Sibling,2,4,4,5,4,5,4,5,4,4,4,0,0,-1,0,-1,0,-1,0,0,4.33,4.33,4.33,-0.33,-0.33,-0.33
+2-27-2023 16:20:22,IITD,Delhi,Public,IITD,11,"Engineering, Science, Management and Humanities",Father,2,5,4,2,5,4,5,5,5,5,4,-1,0,2,-1,0,-1,-1,-1,-1,3.67,4.67,5,0.33,-0.67,-1
+2-27-2023 16:22:24,IITD,Delhi,Public,IITD,11,"Engineering, Science, Management and Humanities",No One,2,4,4,2,4,5,4,4,5,5,3,-1,-1,1,-1,-2,-1,-1,-2,-2,3.33,4.33,4.67,-0.33,-1.33,-1.67
+2-27-2023 17:37:13,IITD,Delhi,Public,IITD,11,"Engineering, Science, Management and Humanities",No One,1,5,4,3,3,4,4,5,4,5,4,-1,0,1,1,0,0,-1,0,-1,4,3.67,4.67,0,0.33,-0.67
+2-28-2023 6:50:36,IITD,Delhi,Public,IITD,11,"Engineering, Science, Management and Humanities",No One,2,4,4,2,3,5,4,4,5,5,4,0,0,2,1,-1,0,0,-1,-1,3.33,4,4.67,0.67,0,-0.67
+2-28-2023 6:53:16,IITD,Delhi,Public,IITD,11,"Engineering, Science, Management and Humanities",No One,2,4,3,1,4,5,4,4,5,5,4,0,1,3,0,-1,0,0,-1,-1,2.67,4.33,4.67,1.33,-0.33,-0.67
+3-13-2023 17:15:24,iitd,Delhi,Public,IITD,11,"Engineering, Science, Management and Humanities",No One,1,4,4,4,4,3,4,5,4,4,4,0,0,0,0,1,0,-1,0,0,4,3.67,4.33,0,0.33,-0.33
+3-13-2023 19:23:42,IITD,Delhi,Public,IITD,11,"Engineering, Science, Management and Humanities",No One,4,4,4,3,4,4,3,3,5,3,4,0,0,1,0,0,1,1,-1,1,3.67,3.67,3.67,0.33,0.33,0.33
+02-09-2023 13:19,Iitd ,Delhi,Public,IITD ,11,"Engineering, Science, Management and Humanities",No One,2,3,3,3,2,4,5,3,4,5,2,-1,-1,-1,0,-2,-3,-1,-2,-3,3,3.67,4,-1,-1.67,-2
+3-13-2023 16:22:23,"IIT, Delhi",Delhi,Public,"IIT, DELHI",11,"Engineering, Science, Management and Humanities",No One,2,5,5,5,5,5,5,5,5,5,5,0,0,0,0,0,0,0,0,0,5,5,5,0,0,0
+16-03-2023 12:07,IITD,Delhi,Public,IITD,11,"Engineering, Science, Management and Humanities",No One,2,4,4,2,4,4,4,4,4,4,4,0,0,2,0,0,0,0,0,0,3.33,4,4,0.67,0,0
+16-03-2023 12:18,IITD,Delhi,Public,IITD,11,"Engineering, Science, Management and Humanities",Mother,3,4,2,2,3,3,4,4,3,4,4,0,2,2,1,1,0,0,1,0,2.67,3.33,3.67,1.33,0.67,0.33
+16-03-2023 12:19,IITD,Delhi,Public,IITD,11,"Engineering, Science, Management and Humanities",Mother,2,2,3,2,4,4,5,5,5,5,5,3,2,3,1,1,0,0,0,0,2.33,4.33,5,2.67,0.67,0
+16-03-2023 12:20,IIT Delhi,Delhi,Public,IIT DELHI,11,"Engineering, Science, Management and Humanities",Mother,4,4,4,2,4,4,5,5,5,5,3,-1,-1,1,-1,-1,-2,-2,-2,-2,3.33,4.33,5,-0.33,-1.33,-2
+3-13-2023 20:17:17,IIT gandhinagar ,Gandhinagar,Public,IIT GANDHINAGAR ,12,"Engineering, Science, Management and Humanities",No One,4,2,2,1,5,5,4,3,4,2,2,0,0,1,-3,-3,-2,-1,-2,0,1.67,4.67,3,0.33,-2.67,-1
+3-13-2023 20:19:02,IIT gandhinagar ,Gandhinagar,Public,IIT GANDHINAGAR ,12,"Engineering, Science, Management and Humanities",No One,3,3,2,1,2,2,4,2,4,1,2,-1,0,1,0,0,-2,0,-2,1,2,2.67,2.33,0,-0.67,-0.33
+3-13-2023 20:21:04,IIT gandhinagar ,Gandhinagar,Public,IIT GANDHINAGAR ,12,"Engineering, Science, Management and Humanities",Father,1,1,1,1,5,5,3,4,4,1,4,3,3,3,-1,-1,1,0,0,3,1,4.33,3,3,-0.33,1
+3-13-2023 20:27:42,IIT Gandhinagar ,Gandhinagar,Public,IIT GANDHINAGAR ,12,"Engineering, Science, Management and Humanities",No One,1,2,2,2,3,3,4,2,3,1,1,-1,-1,-1,-2,-2,-3,-1,-2,0,2,3.33,2,-1,-2.33,-1
+02-08-2023 15:32,IIT Guwahati,Guwahati,Public,IIT GUWAHATI,13,"Engineering, Science, Management and Humanities",No One,2,1,1,1,3,5,2,1,2,1,5,4,4,4,2,0,3,4,3,4,1,3.33,1.33,4,1.67,3.67
+02-08-2023 18:18,IIT Guwahati,Guwahati,Public,IIT GUWAHATI,13,"Engineering, Science, Management and Humanities",No One,2,1,5,1,1,5,4,1,2,1,3,2,-2,2,2,-2,-1,2,1,2,2.33,3.33,1.33,0.67,-0.33,1.67
+03-11-2023 09:53,IIT Guwahati,Guwahati,Public,IIT GUWAHATI,13,"Engineering, Science, Management and Humanities",No One,2,3,3,3,4,4,4,4,4,3,4,1,1,1,0,0,0,0,0,1,3,4,3.67,1,0,0.33
+02-08-2023 15:32,IIT guwahati ,Guwahati,Public,IIT GUWAHATI ,13,"Engineering, Science, Management and Humanities",No One,2,1,2,1,3,5,2,2,2,2,3,2,1,2,0,-2,1,1,1,1,1.33,3.33,2,1.67,-0.33,1
+02-08-2023 22:03,IIT Guwahati ,Guwahati,Public,IIT GUWAHATI ,13,"Engineering, Science, Management and Humanities",No One,2,3,3,5,1,3,4,1,5,3,2,-1,-1,-3,1,-1,-2,1,-3,-1,3.67,2.67,3,-1.67,-0.67,-1
+2-27-2023 17:42:12,IIT Guwahati ,Guwahati,Public,IIT GUWAHATI ,13,"Engineering, Science, Management and Humanities",No One,2,3,3,2,2,4,3,2,4,1,2,-1,-1,0,0,-2,-1,0,-2,1,2.67,3,2.33,-0.67,-1,-0.33
+03-03-2023 16:21,IIT Guwahati ,Guwahati,Public,IIT GUWAHATI ,13,"Engineering, Science, Management and Humanities",No One,2,4,4,4,4,5,4,3,5,2,3,-1,-1,-1,-1,-2,-1,0,-2,1,4,4.33,3.33,-1,-1.33,-0.33
+03-03-2023 16:22,IIT Guwahati ,Guwahati,Public,IIT GUWAHATI ,13,"Engineering, Science, Management and Humanities",No One,4,3,2,3,4,5,4,4,4,3,4,1,2,1,0,-1,0,0,0,1,2.67,4.33,3.67,1.33,-0.33,0.33
+03-03-2023 16:24,IIT Guwahati ,Guwahati,Public,IIT GUWAHATI ,13,"Engineering, Science, Management and Humanities",Father,2,3,3,3,4,5,4,4,4,4,4,1,1,1,0,-1,0,0,0,0,3,4.33,4,1,-0.33,0
+03-08-2023 14:49,IIT Guwahati ,Guwahati,Public,IIT GUWAHATI ,13,"Engineering, Science, Management and Humanities",No One,2,3,3,3,4,4,4,4,4,2,3,0,0,0,-1,-1,-1,-1,-1,1,3,4,3.33,0,-1,-0.33
+03-10-2023 01:25,IIT Guwahati ,Guwahati,Public,IIT GUWAHATI ,13,"Engineering, Science, Management and Humanities",Father,3,4,4,4,4,5,5,4,4,2,4,0,0,0,0,-1,-1,0,0,2,4,4.67,3.33,0,-0.67,0.67
+03-10-2023 01:25,IIT Guwahati ,Guwahati,Public,IIT GUWAHATI ,13,"Engineering, Science, Management and Humanities",No One,4,4,5,5,2,4,4,4,3,2,3,-1,-2,-2,1,-1,-1,-1,0,1,4.67,3.33,3,-1.67,-0.33,0
+03-10-2023 01:26,IIT Guwahati ,Guwahati,Public,IIT GUWAHATI ,13,"Engineering, Science, Management and Humanities",Father,4,4,4,5,4,5,4,3,3,3,1,-3,-3,-4,-3,-4,-3,-2,-2,-2,4.33,4.33,3,-3.33,-3.33,-2
+03-10-2023 01:26,IIT Guwahati ,Guwahati,Public,IIT GUWAHATI ,13,"Engineering, Science, Management and Humanities",Grandparents,4,3,3,3,2,2,3,3,2,2,2,-1,-1,-1,0,0,-1,-1,0,0,3,2.33,2.33,-1,-0.33,-0.33
+03-11-2023 09:55,IIT Guwahati ,Guwahati,Public,IIT GUWAHATI ,13,"Engineering, Science, Management, Humanities and Social Sciences",No One,2,2,3,3,4,4,4,4,4,3,4,2,1,1,0,0,0,0,0,1,2.67,4,3.67,1.33,0,0.33
+03-10-2023 01:24,IIT Guwhati,Guwahati,Public,IIT GUWHATI,13,"Engineering, Science, Management, Humanities and Social Sciences",No One,3,4,4,5,2,4,4,4,3,3,2,-2,-2,-3,0,-2,-2,-2,-1,-1,4.33,3.33,3.33,-2.33,-1.33,-1.33
+02-08-2023 15:54,IITG,Guwahati,Public,IITG,13,"Engineering, Science, Management, Humanities and Social Sciences",No One,2,3,3,2,2,5,3,2,3,2,2,-1,-1,0,0,-3,-1,0,-1,0,2.67,3.33,2.33,-0.67,-1.33,-0.33
+2-25-2023 11:50:34,IITG,Guwahati,Public,IITG,13,"Engineering, Science, Management, Humanities and Social Sciences",No One,4,3,3,3,3,3,3,3,3,3,2,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,3,3,-1,-1,-1
+2-27-2023 17:29:08,IITG,Guwahati,Public,IITG,13,"Engineering, Science, Management, Humanities and Social Sciences",No One,1,3,4,3,3,5,3,2,4,2,2,-1,-2,-1,-1,-3,-1,0,-2,0,3.33,3.67,2.67,-1.33,-1.67,-0.67
+3-13-2023 17:25:44,iitg,Guwahati,Public,IITG,13,"Engineering, Science, Management, Humanities and Social Sciences",No One,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0
+3-13-2023 20:14:29,IITG,Guwahati,Public,IITG,13,"Engineering, Science, Management, Humanities and Social Sciences",No One,2,3,4,2,1,5,4,3,4,1,1,-2,-3,-1,0,-4,-3,-2,-3,0,3,3.33,2.67,-2,-2.33,-1.67
+2-13-2023 20:09:12,IIT Hyderabad ,Hyderabad,Public,IIT HYDERABAD ,14,"Engineering, Science, Management, Humanities and Social Sciences",No One,2,4,5,5,4,5,4,5,5,5,4,0,-1,-1,0,-1,0,-1,-1,-1,4.67,4.33,5,-0.67,-0.33,-1
+2-27-2023 17:30:12,IIT Hyderabad ,Hyderabad,Public,IIT HYDERABAD ,14,"Engineering, Science, Management, Humanities and Social Sciences",No One,3,4,3,3,4,5,4,3,4,4,3,-1,0,0,-1,-2,-1,0,-1,-1,3.33,4.33,3.67,-0.33,-1.33,-0.67
+2-27-2023 17:31:13,IIT Hyderabad ,Hyderabad,Public,IIT HYDERABAD ,14,"Engineering, Science, Management, Humanities and Social Sciences",Father,1,4,4,4,5,5,4,4,4,5,5,1,1,1,0,0,1,1,1,0,4,4.67,4.33,1,0.33,0.67
+03-03-2023 16:22,IIT HYDERABAD ,Hyderabad,Public,IIT HYDERABAD ,14,"Engineering, Science, Management, Humanities and Social Sciences",No One,2,3,3,3,4,4,4,2,4,4,4,1,1,1,0,0,0,2,0,0,3,4,3.33,1,0,0.67
+2-27-2023 18:23:30,iith,Hyderabad,Public,IITH,14,"Engineering, Science, Management, Humanities and Social Sciences",No One,1,3,3,2,3,4,3,3,4,4,4,1,1,2,1,0,1,1,0,0,2.67,3.33,3.67,1.33,0.67,0.33
+3-13-2023 17:17:56,iith,Hyderabad,Public,IITH,14,"Engineering, Science, Management, Humanities and Social Sciences",No One,3,3,3,3,3,3,3,3,4,4,3,0,0,0,0,0,0,0,-1,-1,3,3,3.67,0,0,-0.67
+16-03-2023 08:41,IITH,Hyderabad,Public,IITH,14,"Engineering, Science, Management, Humanities and Social Sciences",No One,2,4,4,3,4,4,5,4,5,5,5,1,1,2,1,1,0,1,0,0,3.67,4.33,4.67,1.33,0.67,0.33
+16-03-2023 08:42,IITH,Hyderabad,Public,IITH,14,"Engineering, Science, Management, Humanities and Social Sciences",No One,2,2,4,3,5,4,5,4,4,4,4,2,0,1,-1,0,-1,0,0,0,3,4.67,4,1,-0.67,0
+03-03-2023 16:27,IIT indore,Indore,Public,IIT INDORE,15,"Engineering, Science, Management, Humanities and Social Sciences",No One,2,3,3,4,2,5,4,3,3,3,3,0,0,-1,1,-2,-1,0,0,0,3.33,3.67,3,-0.33,-0.67,0
+03-03-2023 16:28,IIT indore,Indore,Public,IIT INDORE,15,"Engineering, Science, Management, Humanities and Social Sciences",No One,2,3,3,3,4,4,3,3,4,3,4,1,1,1,0,0,1,1,0,1,3,3.67,3.33,1,0.33,0.67
+03-10-2023 01:28,IIT indore,Indore,Public,IIT INDORE,15,"Engineering, Science, Management, Humanities and Social Sciences",Father,2,3,4,4,3,4,3,2,2,3,3,0,-1,-1,0,-1,0,1,1,0,3.67,3.33,2.33,-0.67,-0.33,0.67
+03-10-2023 01:28,IIT Indore,Indore,Public,IIT INDORE,15,"Engineering, Science, Management, Humanities and Social Sciences",No One,2,4,4,4,2,5,2,2,2,3,1,-3,-3,-3,-1,-4,-1,-1,-1,-2,4,3,2.33,-3,-2,-1.33
+3-13-2023 15:34:45,IIT Indore,Indore,Public,IIT INDORE,15,"Engineering, Science and Humanities",No One,2,4,3,4,3,3,3,4,4,3,3,-1,0,-1,0,0,0,-1,-1,0,3.67,3,3.67,-0.67,0,-0.67
+3-13-2023 15:37:00,IIT Indore,Indore,Public,IIT INDORE,15,"Engineering, Science and Humanities",No One,3,4,4,2,4,4,4,4,4,3,4,0,0,2,0,0,0,0,0,1,3.33,4,3.67,0.67,0,0.33
+2-27-2023 10:39:08,IIT Indore ,Indore,Public,IIT INDORE ,15,"Engineering, Science and Humanities",Mother,1,5,2,2,4,5,4,3,1,2,2,-3,0,0,-2,-3,-2,-1,1,0,3,4.33,2,-1,-2.33,0
+2-27-2023 10:40:17,IIT Indore ,Indore,Public,IIT INDORE ,15,"Engineering, Science and Humanities",No One,2,3,5,2,3,5,4,3,3,1,5,2,0,3,2,0,1,2,2,4,3.33,4,2.33,1.67,1,2.67
+03-10-2023 01:29,IIT Indore ,Indore,Public,IIT INDORE ,15,"Engineering, Science and Humanities",Father,1,4,4,3,2,5,2,1,4,3,3,-1,-1,0,1,-2,1,2,-1,0,3.67,3,2.67,-0.67,0,0.33
+03-10-2023 01:29,IIT Indore ,Indore,Public,IIT INDORE ,15,"Engineering, Science and Humanities",Grandparents,1,3,3,4,4,2,4,4,4,3,4,1,1,0,0,2,0,0,0,1,3.33,3.33,3.67,0.67,0.67,0.33
+2-20-2023 11:11:45,IIT INDORR,Indore,Public,IIT INDORR,15,"Engineering, Science and Humanities",No One,2,2,3,2,1,4,3,2,2,3,2,0,-1,0,1,-2,-1,0,0,-1,2.33,2.67,2.33,-0.33,-0.67,-0.33
+03-03-2023 16:25,IT Indore,Indore,Public,IT INDORE,15,"Engineering, Science and Humanities",No One,2,3,3,4,4,5,4,4,4,1,4,1,1,0,0,-1,0,0,0,3,3.33,4.33,3,0.67,-0.33,1
+3-13-2023 17:41:46,IIT k,Kanpur,Public,IIT K,16,"Engineering, Science and Humanities",Grandparents,4,4,4,3,4,5,3,4,3,2,4,0,0,1,0,-1,1,0,1,2,3.67,4,3,0.33,0,1
+03-08-2023 03:11,IIT Kanpur,Kanpur,Public,IIT KANPUR,16,"Engineering, Science and Humanities",No One,3,4,4,5,3,5,4,4,4,4,3,-1,-1,-2,0,-2,-1,-1,-1,-1,4.33,4,4,-1.33,-1,-1
+03-08-2023 03:12,IIT kanpur,Kanpur,Public,IIT KANPUR,16,"Engineering, Science and Humanities",Father,2,4,4,5,4,4,4,5,4,4,4,0,0,-1,0,0,0,-1,0,0,4.33,4,4.33,-0.33,0,-0.33
+03-09-2023 07:01,IIT Kanpur,Kanpur,Public,IIT KANPUR,16,"Engineering, Science and Humanities",No One,2,4,4,4,5,3,4,3,4,3,4,0,0,0,-1,1,0,1,0,1,4,4,3.33,0,0,0.67
+03-09-2023 07:03,IIT Kanpur,Kanpur,Public,IIT KANPUR,16,"Engineering, Science, Management, Humanities and Social Sciences",No One,4,4,4,1,3,3,4,4,4,3,3,-1,-1,2,0,0,-1,-1,-1,0,3,3.33,3.67,0,-0.33,-0.67
+3-13-2023 15:38:12,IIT Kanpur,Kanpur,Public,IIT KANPUR,16,"Engineering, Science, Management, Humanities and Social Sciences",No One,2,2,3,2,4,4,4,4,4,4,4,2,1,2,0,0,0,0,0,0,2.33,4,4,1.67,0,0
+3-13-2023 15:39:00,IIT Kanpur,Kanpur,Public,IIT KANPUR,16,"Engineering, Science, Management, Humanities and Social Sciences",Mother,2,4,4,4,5,5,5,5,5,5,5,1,1,1,0,0,0,0,0,0,4,5,5,1,0,0
+3-13-2023 15:40:43,IIT Kanpur,Kanpur,Public,IIT KANPUR,16,"Engineering, Science, Management, Humanities and Social Sciences",No One,3,2,3,2,4,4,3,4,4,4,4,2,1,2,0,0,1,0,0,0,2.33,3.67,4,1.67,0.33,0
+3-13-2023 17:16:17,IIT Kanpur,Kanpur,Public,IIT KANPUR,16,"Engineering, Science, Management, Humanities and Social Sciences",No One,2,4,4,4,4,4,4,3,4,4,4,0,0,0,0,0,0,1,0,0,4,4,3.67,0,0,0.33
+2-27-2023 16:46:28,IIT Kanpur ,Kanpur,Public,IIT KANPUR ,16,"Engineering, Science, Management, Humanities and Social Sciences",No One,4,3,3,3,3,4,5,5,5,5,5,2,2,2,2,1,0,0,0,0,3,4,5,2,1,0
+2-27-2023 19:28:50,IITK,Kanpur,Public,IITK,16,"Engineering, Science and Management",No One,2,4,4,3,2,3,3,4,4,2,4,0,0,1,2,1,1,0,0,2,3.67,2.67,3.33,0.33,1.33,0.67
+03-03-2023 16:16,IITK,Kanpur,Public,IITK,16,"Engineering, Science and Management",Father,4,4,3,3,4,5,4,3,4,2,4,0,1,1,0,-1,0,1,0,2,3.33,4.33,3,0.67,-0.33,1
+16-03-2023 08:38,IITK,Kanpur,Public,IITK,16,"Engineering, Science and Management",No One,3,5,4,1,5,5,5,4,4,4,4,-1,0,3,-1,-1,-1,0,0,0,3.33,5,4,0.67,-1,0
+16-03-2023 08:39,IITK,Kanpur,Public,IITK,16,"Engineering, Science and Management",Sibling,4,4,4,4,4,4,4,4,4,4,4,0,0,0,0,0,0,0,0,0,4,4,4,0,0,0
+16-03-2023 08:40,IITK,Kanpur,Public,IITK,16,"Engineering, Science and Management",No One,4,4,4,2,4,4,4,4,4,3,4,0,0,2,0,0,0,0,0,1,3.33,4,3.67,0.67,0,0.33
+16-03-2023 08:41,IITK,Kanpur,Public,IITK,16,"Engineering, Science and Management",No One,2,4,4,3,5,5,5,5,5,4,5,1,1,2,0,0,0,0,0,1,3.67,5,4.67,1.33,0,0.33
+16-03-2023 12:07,IITK,Kanpur,Public,IITK,16,"Engineering, Science and Management",Mother,2,4,4,2,3,3,4,3,3,3,3,-1,-1,1,0,0,-1,0,0,0,3.33,3.33,3,-0.33,-0.33,0
+16-03-2023 12:11,IITK,Kanpur,Public,IITK,16,"Engineering, Science and Management",Father,2,4,4,2,3,3,4,4,4,4,4,0,0,2,1,1,0,0,0,0,3.33,3.33,4,0.67,0.67,0
+16-03-2023 12:12,IITK,Kanpur,Public,IITK,16,"Engineering, Science and Management",Father,2,3,4,3,4,4,4,4,4,4,4,1,0,1,0,0,0,0,0,0,3.33,4,4,0.67,0,0
+2-25-2023 11:44:57,IIT Kgp,Kharagpur,Public,IIT KGP,17,"Engineering, Science and Management",No One,2,4,4,3,2,2,3,4,4,1,4,0,0,1,2,2,1,0,0,3,3.67,2.33,3,0.33,1.67,1
+2-25-2023 11:46:23,IIT Kgp,Kharagpur,Public,IIT KGP,17,"Engineering, Science and Management",No One,3,4,4,3,4,5,4,4,5,1,3,-1,-1,0,-1,-2,-1,-1,-2,2,3.67,4.33,3.33,-0.67,-1.33,-0.33
+02-11-2023 08:56,IIT Kharagpur,Kharagpur,Public,IIT KHARAGPUR,17,"Engineering, Science and Management",No One,2,2,2,3,4,4,3,4,2,1,4,2,2,1,0,0,1,0,2,3,2.33,3.67,2.33,1.67,0.33,1.67
+02-11-2023 10:45,IIT Kharagpur,Kharagpur,Public,IIT KHARAGPUR,17,"Engineering, Science and Management",No One,2,3,4,3,4,5,4,3,2,4,1,-2,-3,-2,-3,-4,-3,-2,-1,-3,3.33,4.33,3,-2.33,-3.33,-2
+03-04-2023 22:28,IIT Kharagpur,Kharagpur,Public,IIT KHARAGPUR,17,"Engineering, Science and Management",No One,2,4,5,5,3,4,5,4,4,3,3,-1,-2,-2,0,-1,-2,-1,-1,0,4.67,4,3.67,-1.67,-1,-0.67
+03-04-2023 22:29,IIT Kharagpur,Kharagpur,Public,IIT KHARAGPUR,17,"Engineering, Science and Management",Father,2,4,4,4,2,4,4,4,4,3,2,-2,-2,-2,0,-2,-2,-2,-2,-1,4,3.33,3.67,-2,-1.33,-1.67
+03-10-2023 11:56,IIT Kharagpur,Kharagpur,Public,IIT KHARAGPUR,17,"Engineering, Science and Management",No One,2,5,3,5,4,5,5,5,5,2,5,0,2,0,1,0,0,0,0,3,4.33,4.67,4,0.67,0.33,1
+02-09-2023 22:53,IIT Kharagpur ,Kharagpur,Public,IIT KHARAGPUR ,17,"Engineering, Science and Management",No One,2,1,3,2,3,5,3,1,1,1,3,2,0,1,0,-2,0,2,2,2,2,3.67,1,1,-0.67,2
+02-11-2023 00:42,IIT Kharagpur ,Kharagpur,Public,IIT KHARAGPUR ,17,"Engineering, Science and Management",No One,2,4,3,5,2,5,4,2,2,3,2,-2,-1,-3,0,-3,-2,0,0,-1,4,3.67,2.33,-2,-1.67,-0.33
+02-11-2023 00:45,IIT Kharagpur ,Kharagpur,Public,IIT KHARAGPUR ,17,"Engineering, Science and Management",No One,2,3,3,4,5,5,5,3,2,2,3,0,0,-1,-2,-2,-2,0,1,1,3.33,5,2.33,-0.33,-2,0.67
+02-11-2023 00:53,IIT Kharagpur ,Kharagpur,Public,IIT KHARAGPUR ,17,"Engineering, Science and Management",No One,2,2,2,2,4,4,4,3,2,1,4,2,2,2,0,0,0,1,2,3,2,4,2,2,0,2
+02-11-2023 01:05,IIT Kharagpur ,Kharagpur,Public,IIT KHARAGPUR ,17,"Engineering, Science and Management",No One,2,4,3,5,2,5,4,4,2,1,2,-2,-1,-3,0,-3,-2,-2,0,1,4,3.67,2.33,-2,-1.67,-0.33
+02-11-2023 01:22,IIT Kharagpur ,Kharagpur,Public,IIT KHARAGPUR ,17,"Engineering, Science and Management",No One,2,4,4,4,2,2,4,5,3,1,2,-2,-2,-2,0,0,-2,-3,-1,1,4,2.67,3,-2,-0.67,-1
+02-11-2023 09:27,IIT Kharagpur ,Kharagpur,Public,IIT KHARAGPUR ,17,"Engineering, Science and Management",No One,2,3,4,5,4,5,3,4,2,1,3,0,-1,-2,-1,-2,0,-1,1,2,4,4,2.33,-1,-1,0.67
+2-27-2023 16:41:53,IIT Kharagpur ,Kharagpur,Public,IIT KHARAGPUR ,17,"Engineering, Science and Management",No One,2,4,5,4,3,4,4,1,5,2,4,0,-1,0,1,0,0,3,-1,2,4.33,3.67,2.67,-0.33,0.33,1.33
+03-03-2023 16:18,IITKgp,Kharagpur,Public,IITKGP,17,"Engineering, Science and Management",No One,3,3,3,3,3,3,3,3,3,2,2,-1,-1,-1,-1,-1,-1,-1,-1,0,3,3,2.67,-1,-1,-0.67
+3-13-2023 19:14:01,IITKGP,Kharagpur,Public,IITKGP,17,"Engineering, Science and Management",No One,4,4,4,3,3,3,5,4,4,1,3,-1,-1,0,0,0,-2,-1,-1,2,3.67,3.67,3,-0.67,-0.67,0
+3-13-2023 16:21:50,"IIT, Kgp",Kharagpur,Public,"IIT, KGP",17,"Engineering, Science and Management",Sibling,3,5,5,5,3,3,5,5,5,3,5,0,0,0,2,2,0,0,0,2,5,3.67,4.33,0,1.33,0.67
+2-27-2023 17:39:55,IIT Madras,Chennai,Public,IIT MADRAS,18,"Engineering, Science and Management",Sibling,4,4,4,3,4,5,4,4,4,3,4,0,0,1,0,-1,0,0,0,1,3.67,4.33,3.67,0.33,-0.33,0.33
+03-10-2023 01:20,IIT Madras,Chennai,Public,IIT MADRAS,18,"Engineering, Science and Management",No One,2,4,4,4,4,5,4,4,4,5,4,0,0,0,0,-1,0,0,0,-1,4,4.33,4.33,0,-0.33,-0.33
+03-10-2023 01:21,IIT Madras,Chennai,Public,IIT MADRAS,18,"Engineering, Science and Management",Father,1,4,5,5,3,4,4,5,4,4,3,-1,-2,-2,0,-1,-1,-2,-1,-1,4.67,3.67,4.33,-1.67,-0.67,-1.33
+03-10-2023 01:22,IIT MADRAS,Chennai,Public,IIT MADRAS,18,"Engineering, Science and Management",Mother,2,4,5,5,4,5,5,5,4,4,4,0,-1,-1,0,-1,-1,-1,0,0,4.67,4.67,4.33,-0.67,-0.67,-0.33
+03-10-2023 01:22,IIT madras,Chennai,Public,IIT MADRAS,18,"Engineering, Science and Management",No One,2,4,4,4,2,4,3,5,3,3,2,-2,-2,-2,0,-2,-1,-3,-1,-1,4,3,3.67,-2,-1,-1.67
+03-10-2023 01:23,iit madras,Chennai,Public,IIT MADRAS,18,"Engineering, Science and Management",Grandparents,2,4,4,4,4,5,5,4,3,3,3,-1,-1,-1,-1,-2,-2,-1,0,0,4,4.67,3.33,-1,-1.67,-0.33
+03-10-2023 11:57,IIT Madras,Chennai,Public,IIT MADRAS,18,"Engineering, Science and Management",Sibling,2,5,5,3,4,3,4,4,4,4,4,-1,-1,1,0,1,0,0,0,0,4.33,3.67,4,-0.33,0.33,0
+03-10-2023 11:57,IIT Madras,Chennai,Public,IIT MADRAS,18,"Engineering, Science and Management",No One,2,4,4,4,4,4,4,4,4,4,4,0,0,0,0,0,0,0,0,0,4,4,4,0,0,0
+2-25-2023 11:15:45,IITM,Chennai,Public,IITM,18,"Engineering, Science and Management",No One,3,4,4,3,4,5,5,5,4,3,4,0,0,1,0,-1,-1,-1,0,1,3.67,4.67,4,0.33,-0.67,0
+2-27-2023 19:27:38,IITM,Chennai,Public,IITM,18,"Engineering, Science and Management",No One,1,4,4,3,4,4,4,5,5,3,4,0,0,1,0,0,0,-1,-1,1,3.67,4,4.33,0.33,0,-0.33
+03-02-2023 07:06,IITM,Chennai,Public,IITM,18,"Engineering, Science and Management",No One,3,3,3,3,4,5,4,4,5,5,2,-1,-1,-1,-2,-3,-2,-2,-3,-3,3,4.33,4.67,-1,-2.33,-2.67
+03-03-2023 16:13,IITM,Chennai,Public,IITM,18,"Engineering, Science and Management",No One,3,4,4,3,2,2,4,4,5,4,4,0,0,1,2,2,0,0,-1,0,3.67,2.67,4.33,0.33,1.33,-0.33
+3-13-2023 17:30:29,iitm,Chennai,Public,IITM,18,"Engineering, Science and Management",No One,1,4,4,4,4,4,4,4,4,4,4,0,0,0,0,0,0,0,0,0,4,4,4,0,0,0
+3-13-2023 19:07:17,IITM,Chennai,Public,IITM,18,"Engineering, Science and Management",No One,4,4,4,3,5,5,5,3,4,3,5,1,1,2,0,0,0,2,1,2,3.67,5,3.33,1.33,0,1.67
+3-13-2023 19:46:46,IITM,Chennai,Public,IITM,18,"Engineering, Science and Management",No One,4,5,5,4,5,5,5,4,5,5,5,0,0,1,0,0,0,1,0,0,4.67,5,4.67,0.33,0,0.33
+3-13-2023 19:48:12,IITM,Chennai,Public,IITM,18,"Engineering, Science and Management",No One,2,5,5,5,5,5,5,5,5,5,5,0,0,0,0,0,0,0,0,0,5,5,5,0,0,0
+3-13-2023 19:48:43,IITM,Chennai,Public,IITM,18,"Engineering, Science and Management",No One,3,5,5,5,5,5,5,5,5,5,5,0,0,0,0,0,0,0,0,0,5,5,5,0,0,0
+3-13-2023 19:49:09,IITM,Chennai,Public,IITM,18,"Engineering, Science and Management",No One,2,5,5,5,5,5,5,5,5,5,5,0,0,0,0,0,0,0,0,0,5,5,5,0,0,0
+16-03-2023 08:39,IITM,Chennai,Public,IITM,18,"Engineering, Science and Management",Mother,3,4,5,2,3,5,4,4,4,4,3,-1,-2,1,0,-2,-1,-1,-1,-1,3.67,4,4,-0.67,-1,-1
+03-05-2023 11:46,IIT Patna ,Patna,Public,IIT PATNA ,19,"Engineering, Science and Management",Father,2,2,3,3,4,5,5,1,2,1,2,0,-1,-1,-2,-3,-3,1,0,1,2.67,4.67,1.33,-0.67,-2.67,0.67
+3-13-2023 16:17:52,IIT Patna ,Patna,Public,IIT PATNA ,19,"Engineering, Science and Management",No One,2,3,2,2,3,5,5,4,3,2,4,1,2,2,1,-1,-1,0,1,2,2.33,4.33,3,1.67,-0.33,1
+3-13-2023 16:19:35,IIT Patna ,Patna,Public,IIT PATNA ,19,"Engineering, Science and Management",No One,4,3,4,2,1,5,5,4,2,2,2,-1,-2,0,1,-3,-3,-2,0,0,3,3.67,2.67,-1,-1.67,-0.67
+3-13-2023 16:20:11,IIT Patna ,Patna,Public,IIT PATNA ,19,"Engineering, Science and Management",Father,3,4,4,2,5,5,5,4,3,2,5,1,1,3,0,0,0,1,2,3,3.33,5,3,1.67,0,2
+03-10-2023 01:30,IIT Rooar,Ropar,Public,IIT ROOAR,20,"Engineering, Science and Management",No One,3,4,4,4,3,5,4,3,2,3,4,0,0,0,1,-1,0,1,2,1,4,4,2.67,0,0,1.33
+3-13-2023 19:15:13,IIT Ropar,Ropar,Public,IIT ROPAR,20,"Engineering, Science and Management",No One,3,2,2,1,3,5,3,2,4,1,1,-1,-1,0,-2,-4,-2,-1,-3,0,1.67,3.67,2.33,-0.67,-2.67,-1.33
+03-10-2023 01:31,IIT Ropar ,Ropar,Public,IIT ROPAR ,20,"Engineering, Science and Management",Father,1,3,4,4,2,4,4,3,3,3,2,-1,-2,-2,0,-2,-2,-1,-1,-1,3.67,3.33,3,-1.67,-1.33,-1
+03-10-2023 01:32,IIT Ropar ,Ropar,Public,IIT ROPAR ,20,"Engineering, Science and Management",Grandparents,3,2,3,3,1,2,3,3,3,2,2,0,-1,-1,1,0,-1,-1,-1,0,2.67,2,2.67,-0.67,0,-0.67
+03-10-2023 01:32,IIT Ropar ,Ropar,Public,IIT ROPAR ,20,"Engineering, Science and Management",No One,3,3,5,5,3,4,4,3,4,2,4,1,-1,-1,1,0,0,1,0,2,4.33,3.67,3,-0.33,0.33,1
+03-10-2023 01:33,IIT Ropar ,Ropar,Public,IIT ROPAR ,20,"Engineering, Science and Management",No One,2,3,3,5,4,5,4,3,4,2,2,-1,-1,-3,-2,-3,-2,-1,-2,0,3.67,4.33,3,-1.67,-2.33,-1
+3-13-2023 16:22:55,IIT Ropar ,Ropar,Public,IIT ROPAR ,20,"Engineering, Science and Management",No One,2,4,5,3,5,5,3,5,3,3,5,1,0,2,0,0,2,0,2,2,4,4.33,3.67,1,0.67,1.33
+3-13-2023 16:23:57,IIT Ropar ,Ropar,Public,IIT ROPAR ,20,"Engineering, Science and Management",No One,3,3,4,2,4,5,3,4,3,2,2,-1,-2,0,-2,-3,-1,-2,-1,0,3,4,3,-1,-2,-1
+03-03-2023 23:34,IIT Roorkee,Roorkee,Public,IIT ROORKEE,21,"Engineering, Science and Management",No One,1,4,3,4,2,4,4,4,4,3,4,0,1,0,2,0,0,0,0,1,3.67,3.33,3.67,0.33,0.67,0.33
+02-09-2023 21:28,IIT Roorkee ,Roorkee,Public,IIT ROORKEE ,21,"Engineering, Science and Management",No One,2,3,3,1,5,3,3,4,3,1,2,-1,-1,1,-3,-1,-1,-2,-1,1,2.33,3.67,2.67,-0.33,-1.67,-0.67
+02-11-2023 10:46,IIT Roorkee ,Roorkee,Public,IIT ROORKEE ,21,"Engineering, Science and Management",No One,2,3,3,4,4,5,3,3,3,1,4,1,1,0,0,-1,1,1,1,3,3.33,4,2.33,0.67,0,1.67
+2-27-2023 17:43:12,IIT Roorkee ,Roorkee,Public,IIT ROORKEE ,21,"Engineering, Science and Management",No One,3,3,2,2,4,4,4,3,4,1,3,0,1,1,-1,-1,-1,0,-1,2,2.33,4,2.67,0.67,-1,0.33
+3-13-2023 16:10:47,IIT Roorkee ,Roorkee,Public,IIT ROORKEE ,21,"Science, Arts, Commerce, Education, Law and Management",No One,3,2,5,2,5,5,5,5,3,2,3,1,-2,1,-2,-2,-2,-2,0,1,3,5,3.33,0,-2,-0.33
+2-14-2023 10:44:32,IITR,Roorkee,Public,IITR,21,"Science, Arts, Commerce, Education, Law and Management",No One,2,3,3,1,3,4,3,3,3,2,2,-1,-1,1,-1,-2,-1,-1,-1,0,2.33,3.33,2.67,-0.33,-1.33,-0.67
+02-08-2023 14:45,NITK,Mangalore,Public,NITK,22,"Science, Arts, Commerce, Education, Law and Management",No One,2,2,3,2,1,5,1,2,4,1,5,3,2,3,4,0,4,3,1,4,2.33,2.33,2.33,2.67,2.67,2.67
+02-08-2023 14:45,NITK,Mangalore,Public,NITK,22,Engineering and Science,No One,2,3,4,2,4,4,4,4,4,2,3,0,-1,1,-1,-1,-1,-1,-1,1,3,4,3.33,0,-1,-0.33
+02-08-2023 14:47,NITK,Mangalore,Public,NITK,22,Engineering and Science,No One,2,2,2,1,3,4,2,3,5,1,3,1,1,2,0,-1,1,0,-2,2,1.67,3,3,1.33,0,0
+02-08-2023 14:47,NITK,Mangalore,Public,NITK,22,Engineering and Science,Mother,2,3,4,4,4,5,4,2,3,3,3,0,-1,-1,-1,-2,-1,1,0,0,3.67,4.33,2.67,-0.67,-1.33,0.33
+02-08-2023 14:59,Nitk,Mangalore,Public,NITK,22,Engineering and Science,No One,2,4,4,3,3,5,4,5,2,2,1,-3,-3,-2,-2,-4,-3,-4,-1,-1,3.67,4,3,-2.67,-3,-2
+02-08-2023 15:00,Nitk,Mangalore,Public,NITK,22,Engineering and Science,No One,4,4,3,2,3,3,4,2,3,3,3,-1,0,1,0,0,-1,1,0,0,3,3.33,2.67,0,-0.33,0.33
+02-08-2023 15:05,NITK,Mangalore,Public,NITK,22," Engineering, Management, law, and Medicine",No One,2,3,2,3,4,5,4,4,4,2,3,0,1,0,-1,-2,-1,-1,-1,1,2.67,4.33,3.33,0.33,-1.33,-0.33
+02-08-2023 15:07,Nitk,Mangalore,Public,NITK,22," Engineering, Management, law, and Medicine",No One,2,2,5,4,4,3,4,3,2,2,2,0,-3,-2,-2,-1,-2,-1,0,0,3.67,3.67,2.33,-1.67,-1.67,-0.33
+02-08-2023 15:07,Nitk,Mangalore,Public,NITK,22," Engineering, Management, law, and Medicine",No One,2,2,3,1,5,4,4,2,2,2,3,1,0,2,-2,-1,-1,1,1,1,2,4.33,2,1,-1.33,1
+02-08-2023 15:10,NITK,Mangalore,Public,NITK,22," Engineering, Management, law, and Medicine",Father,2,3,4,3,2,4,4,3,4,3,2,-1,-2,-1,0,-2,-2,-1,-2,-1,3.33,3.33,3.33,-1.33,-1.33,-1.33
+02-08-2023 15:39,NITK,Mangalore,Public,NITK,22,"Engineering, Architecture, and Planning",No One,3,1,3,3,5,5,4,3,3,2,5,4,2,2,0,0,1,2,2,3,2.33,4.67,2.67,2.67,0.33,2.33
+02-08-2023 15:57,NITK,Mangalore,Public,NITK,22,"Engineering, Architecture, and Planning",No One,2,3,4,3,2,5,4,3,4,3,4,1,0,1,2,-1,0,1,0,1,3.33,3.67,3.33,0.67,0.33,0.67
+02-08-2023 16:02,NITK,Mangalore,Public,NITK,22,"Engineering, Architecture, and Planning",Father,2,1,3,1,2,5,3,2,2,3,4,3,1,3,2,-1,1,2,2,1,1.67,3.33,2.33,2.33,0.67,1.67
+02-08-2023 16:12,NITK,Mangalore,Public,NITK,22,"Engineering, Architecture, and Planning",Father,2,3,4,2,4,3,4,3,3,2,2,-1,-2,0,-2,-1,-2,-1,-1,0,3,3.67,2.67,-1,-1.67,-0.67
+02-08-2023 16:15,NITK,Mangalore,Public,NITK,22,"Engineering, Management, Law, Arts, and Design",No One,3,2,1,1,3,5,4,1,1,4,3,1,2,2,0,-2,-1,2,2,-1,1.33,4,2,1.67,-1,1
+02-08-2023 16:48,NITK,Mangalore,Public,NITK,22,"Engineering, Management, Law, Arts, and Design",No One,2,2,2,2,5,5,5,3,3,3,5,3,3,3,0,0,0,2,2,2,2,5,3,3,0,2
+02-08-2023 17:17,NITK,Mangalore,Public,NITK,22,"Engineering, Management, Law, Arts, and Design",No One,2,2,3,2,4,4,4,3,4,3,3,1,0,1,-1,-1,-1,0,-1,0,2.33,4,3.33,0.67,-1,-0.33
+02-09-2023 10:40,Nitk,Mangalore,Public,NITK,22,"Engineering, Management, Law, Arts, and Design",No One,2,4,4,4,4,4,4,4,5,3,5,1,1,1,1,1,1,1,0,2,4,4,4,1,1,1
+02-09-2023 21:12,NITK,Mangalore,Public,NITK,22,"Engineering, Management, Law, Arts, and Design",No One,2,1,2,3,3,4,4,3,2,1,4,3,2,1,1,0,0,1,2,3,2,3.67,2,2,0.33,2
+2-15-2023 19:14:12,NITK,Mangalore,Public,NITK,22,Engineering and Management ,No One,2,4,5,3,4,4,5,5,4,2,5,1,0,2,1,1,0,0,1,3,4,4.33,3.67,1,0.67,1.33
+2-24-2023 22:45:44,NITK,Mangalore,Public,NITK,22,Engineering and Management ,No One,1,1,3,4,5,4,4,2,3,3,5,4,2,1,0,1,1,3,2,2,2.67,4.33,2.67,2.33,0.67,2.33
+2-27-2023 12:04:52,NITK,Mangalore,Public,NITK,22,Engineering and Management ,No One,2,4,3,2,3,2,4,3,3,2,3,-1,0,1,0,1,-1,0,0,1,3,3,2.67,0,0,0.33
+2-27-2023 14:14:42,NITK,Mangalore,Public,NITK,22,Engineering and Management ,Grandparents,4,1,1,2,3,3,4,3,4,3,5,4,4,3,2,2,1,2,1,2,1.33,3.33,3.33,3.67,1.67,1.67
+2-27-2023 14:42:49,NITK,Mangalore,Public,NITK,22,Engineering and Management ,No One,2,1,2,2,3,5,2,2,1,2,2,1,0,0,-1,-3,0,0,1,0,1.67,3.33,1.67,0.33,-1.33,0.33
+3-13-2023 15:30:13,NITK,Mangalore,Public,NITK,22,"Engineering, Architecture, and Planning",No One,2,3,3,4,4,3,3,4,5,4,4,1,1,0,0,1,1,0,-1,0,3.33,3.33,4.33,0.67,0.67,-0.33
+3-13-2023 16:23:55,NITK,Mangalore,Public,NITK,22,"Engineering, Architecture, and Planning",No One,3,4,4,4,4,4,4,4,4,4,4,0,0,0,0,0,0,0,0,0,4,4,4,0,0,0
+3-13-2023 22:11:45,Nitk,Mangalore,Public,NITK,22,"Engineering, Architecture, and Planning",Father,2,3,3,3,3,2,2,2,3,3,4,1,1,1,1,2,2,2,1,1,3,2.33,2.67,1,1.67,1.33
+02-08-2023 14:48,NITK ,Mangalore,Public,NITK ,22,"Engineering, Architecture, and Planning",No One,2,3,4,2,5,3,4,1,3,5,1,-2,-3,-1,-4,-2,-3,0,-2,-4,3,4,3,-2,-3,-2
+02-08-2023 14:54,NITK ,Mangalore,Public,NITK ,22,Engineering and Management,No One,2,2,4,4,5,4,2,2,3,2,2,0,-2,-2,-3,-2,0,0,-1,0,3.33,3.67,2.33,-1.33,-1.67,-0.33
+02-08-2023 14:55,NITK ,Mangalore,Public,NITK ,22,Engineering and Management,No One,2,3,4,3,3,5,4,2,3,2,2,-1,-2,-1,-1,-3,-2,0,-1,0,3.33,4,2.33,-1.33,-2,-0.33
+02-08-2023 15:07,NITK ,Mangalore,Public,NITK ,22,Engineering and Management,No One,2,3,3,4,4,3,4,4,4,4,5,2,2,1,1,2,1,1,1,1,3.33,3.67,4,1.67,1.33,1
+02-08-2023 15:30,Nitk ,Mangalore,Public,NITK ,22,Engineering and Management,No One,1,1,1,1,5,5,2,2,5,2,1,0,0,0,-4,-4,-1,-1,-4,-1,1,4,3,0,-3,-2
+02-08-2023 16:15,NITK Surathkal,Mangalore,Public,NITK SURATHKAL,22,Engineering and Management,No One,3,1,2,3,4,3,4,1,3,2,2,1,0,-1,-2,-1,-2,1,-1,0,2,3.67,2,0,-1.67,0
+02-08-2023 19:12,NITK Surathkal,Mangalore,Public,NITK SURATHKAL,22,Engineering and Management,No One,1,1,2,2,3,4,5,1,3,3,5,4,3,3,2,1,0,4,2,2,1.67,4,2.33,3.33,1,2.67
+2-25-2023 0:14:11,NITK surathkal,Mangalore,Public,NITK SURATHKAL,22,Engineering and Management,No One,2,2,3,2,5,5,5,4,4,2,3,1,0,1,-2,-2,-2,-1,-1,1,2.33,5,3.33,0.67,-2,-0.33
+02-08-2023 16:20,NITK Surathkal ,Mangalore,Public,NITK SURATHKAL ,22,"Engineering, Technology, and Architecture",No One,2,3,4,3,3,4,4,4,5,5,4,1,0,1,1,0,0,0,-1,-1,3.33,3.67,4.67,0.67,0.33,-0.67
+02-08-2023 16:46,NITK Surathkal ,Mangalore,Public,NITK SURATHKAL ,22,"Engineering, Technology, and Architecture",No One,2,1,4,5,2,4,3,4,3,3,3,2,-1,-2,1,-1,0,-1,0,0,3.33,3,3.33,-0.33,0,-0.33
+02-08-2023 17:24,NITK Surathkal ,Mangalore,Public,NITK SURATHKAL ,22,Engineering and Management,Father,2,2,4,1,3,4,3,4,4,5,5,3,1,4,2,1,2,1,1,0,2.33,3.33,4.33,2.67,1.67,0.67
+02-08-2023 16:06,Nitk suratkal ,Mangalore,Public,NITK SURATKAL ,22,Engineering and Management,No One,1,1,2,1,2,5,1,1,1,1,5,4,3,4,3,0,4,4,4,4,1.33,2.67,1,3.67,2.33,4
+02-08-2023 16:00,NITK-Surathkal,Mangalore,Public,NITK-SURATHKAL,22,Engineering and Management,No One,2,2,3,3,4,4,4,3,2,1,4,2,1,1,0,0,0,1,2,3,2.67,4,2,1.33,0,2
+02-08-2023 18:29,National Institute of technology Karnataka,Mangalore,Public,NATIONAL INSTITUTE OF TECHNOLOGY KARNATAKA,22,Engineering and Management,No One,2,3,4,3,4,4,4,4,3,3,3,0,-1,0,-1,-1,-1,-1,0,0,3.33,4,3.33,-0.33,-1,-0.33
+2-24-2023 23:46:06,National Institute of Technology Karnataka,Mangalore,Public,NATIONAL INSTITUTE OF TECHNOLOGY KARNATAKA,22,Engineering and Management,No One,2,3,4,5,4,4,4,3,3,2,2,-1,-2,-3,-2,-2,-2,-1,-1,0,4,4,2.67,-2,-2,-0.67
+02-08-2023 14:45,National Institute of Technology Karnataka ,Mangalore,Public,NATIONAL INSTITUTE OF TECHNOLOGY KARNATAKA ,22,Engineering and Management,No One,2,3,3,2,4,4,4,3,4,2,3,0,0,1,-1,-1,-1,0,-1,1,2.67,4,3,0.33,-1,0
+02-09-2023 15:13,National institute of technology Karnataka ,Mangalore,Public,NATIONAL INSTITUTE OF TECHNOLOGY KARNATAKA ,22,Engineering and Management,No One,2,2,5,3,5,5,5,3,4,3,4,2,-1,1,-1,-1,-1,1,0,1,3.33,5,3.33,0.67,-1,0.67
+2-24-2023 21:49:06,National Institute of Technology Karnataka ,Mangalore,Public,NATIONAL INSTITUTE OF TECHNOLOGY KARNATAKA ,22,Engineering and Management,Father,1,2,2,4,4,4,4,4,3,4,4,2,2,0,0,0,0,0,1,0,2.67,4,3.67,1.33,0,0.33
+2-25-2023 10:39:47,National institute of technology Karnataka ,Mangalore,Public,NATIONAL INSTITUTE OF TECHNOLOGY KARNATAKA ,22,Engineering and Management,No One,2,2,1,1,5,5,3,4,3,3,5,3,4,4,0,0,2,1,2,2,1.33,4.33,3.33,3.67,0.67,1.67
+02-08-2023 14:49,"National Institute of Technology Karnataka, Surathkal",Mangalore,Public,"NATIONAL INSTITUTE OF TECHNOLOGY KARNATAKA, SURATHKAL",22,Engineering and Management,No One,2,2,2,1,4,4,5,4,3,2,4,2,2,3,0,0,-1,0,1,2,1.67,4.33,3,2.33,-0.33,1
+02-08-2023 14:57,"National Institute of Technology Karnataka, Surathkal",Mangalore,Public,"NATIONAL INSTITUTE OF TECHNOLOGY KARNATAKA, SURATHKAL",22,Engineering and Management,No One,2,3,4,4,5,5,5,4,4,3,3,0,-1,-1,-2,-2,-2,-1,-1,0,3.67,5,3.67,-0.67,-2,-0.67
+02-08-2023 16:33,"National Institute of Technology Karnataka, Surathkal",Mangalore,Public,"NATIONAL INSTITUTE OF TECHNOLOGY KARNATAKA, SURATHKAL",22,Engineering and Management,No One,2,2,3,1,1,1,4,3,3,2,3,1,0,2,2,2,-1,0,0,1,2,2,2.67,1,1,0.33
+02-08-2023 19:59,"NATIONAL INSTITUTE OF TECHNOLOGY KARNATAKA, SURATHKAL",Mangalore,Public,"NATIONAL INSTITUTE OF TECHNOLOGY KARNATAKA, SURATHKAL",22,"Engineering, Science and Management",No One,3,2,2,2,1,4,2,2,1,2,3,1,1,1,2,-1,1,1,2,1,2,2.33,1.67,1,0.67,1.33
+3-13-2023 15:48:23,"National Institute of Technology Karnataka, Surathkal ",Mangalore,Public,"NATIONAL INSTITUTE OF TECHNOLOGY KARNATAKA, SURATHKAL ",22,"Engineering, Science and Management",No One,2,3,2,1,4,5,5,2,3,1,4,1,2,3,0,-1,-1,2,1,3,2,4.67,2,2,-0.67,2
+02-08-2023 16:11,National Institute of Technology Surathkal ,Mangalore,Public,NATIONAL INSTITUTE OF TECHNOLOGY SURATHKAL ,22,"Engineering, Science and Management",No One,2,3,1,1,5,1,3,3,3,1,3,0,2,2,-2,2,0,0,0,2,1.67,3,2.33,1.33,0,0.67
+02-08-2023 15:30,National institute of technology Surathkal karnatka ,Mangalore,Public,NATIONAL INSTITUTE OF TECHNOLOGY SURATHKAL KARNATKA ,22,"Engineering, Science and Management",No One,2,2,2,1,1,3,2,4,2,4,2,0,0,1,1,-1,0,-2,0,-2,1.67,2,3.33,0.33,0,-1.33
+2-24-2023 21:47:16,"National institute of technology, Karnataka",Mangalore,Public,"NATIONAL INSTITUTE OF TECHNOLOGY, KARNATAKA",22,"Engineering, Science and Management",No One,2,2,3,2,5,5,2,3,3,3,4,2,1,2,-1,-1,2,1,1,1,2.33,4,3,1.67,0,1
+02-08-2023 14:49,NIT K ,Mangalore,Public,NIT K ,22,"Engineering, Science and Management",No One,2,3,2,2,3,5,4,2,3,2,4,1,2,2,1,-1,0,2,1,2,2.33,4,2.33,1.67,0,1.67
+02-09-2023 01:03,NIT Karnataka,Mangalore,Public,NIT KARNATAKA,22,"Engineering, Science and Management",No One,2,2,2,3,5,5,3,4,4,1,5,3,3,2,0,0,2,1,1,4,2.33,4.33,3,2.67,0.67,2
+2-27-2023 11:39:52,NIT Karnataka,Mangalore,Public,NIT KARNATAKA,22,"Engineering, Science and Management",No One,2,2,4,2,3,5,3,4,3,2,4,2,0,2,1,-1,1,0,1,2,2.67,3.67,3,1.33,0.33,1
+02-08-2023 15:16,"NIT KARNATAKA, SURATHKAL",Mangalore,Public,"NIT KARNATAKA, SURATHKAL",22,"Engineering, Science and Management",No One,1,1,1,1,5,5,4,4,1,1,5,4,4,4,0,0,1,1,4,4,1,4.67,2,4,0.33,3
+03-01-2023 15:32,"NIT Surathkal, Karnataka",Mangalore,Public,"NIT SURATHKAL, KARNATAKA",22,"Engineering, Science and Management",No One,1,4,4,3,4,1,4,3,2,3,3,-1,-1,0,-1,2,-1,0,1,0,3.67,3,2.67,-0.67,0,0.33
+3-13-2023 17:04:24,Nit suratkal ,Mangalore,Public,NIT SURATKAL ,22,"Engineering, Science and Management",No One,2,1,1,1,4,3,4,2,4,1,5,4,4,4,1,2,1,3,1,4,1,3.67,2.33,4,1.33,2.67
+2-24-2023 22:20:31,"The National Institute of Technology, Surathkal, Karnataka ",Mangalore,Public,"THE NATIONAL INSTITUTE OF TECHNOLOGY, SURATHKAL, KARNATAKA ",22,"Engineering, Science and Management",No One,2,2,2,1,3,4,3,2,4,2,2,0,0,1,-1,-2,-1,0,-2,0,1.67,3.33,2.67,0.33,-1.33,-0.67
+13-03-2023 22:11,Nitk,Mangalore,Public,NITK,22,"Engineering, Science and Management",Father,2,3,3,3,3,2,2,2,3,3,4,1,1,1,1,2,2,2,1,1,3,2.33,2.67,1,1.67,1.33
+02-11-2023 11:29,Banaras hindu university,Varanasi,Public,BANARAS HINDU UNIVERSITY,23,"Engineering, Science and Management",No One,1,5,5,5,5,5,5,5,5,5,1,-4,-4,-4,-4,-4,-4,-4,-4,-4,5,5,5,-4,-4,-4
+02-11-2023 11:19,Banaras Hindu University ,Varanasi,Public,BANARAS HINDU UNIVERSITY ,23,"Engineering, Science and Management",No One,1,1,1,1,5,5,1,1,1,1,5,4,4,4,0,0,4,4,4,4,1,3.67,1,4,1.33,4
+02-11-2023 11:23,Banaras Hindu University Varanasi Uttar Pradesh ,Varanasi,Public,BANARAS HINDU UNIVERSITY VARANASI UTTAR PRADESH ,23,"Engineering, Science and Management",No One,1,3,4,5,4,5,4,1,3,2,3,0,-1,-2,-1,-2,-1,2,0,1,4,4.33,2,-1,-1.33,1
+2-27-2023 19:26:15,IIT BHU,Varanasi,Public,IIT BHU,24,"Engineering, Science and Management",No One,4,4,4,4,4,4,4,4,4,4,4,0,0,0,0,0,0,0,0,0,4,4,4,0,0,0
+03-03-2023 16:42,IIT BHU,Varanasi,Public,IIT BHU,24,"Engineering, Science and Management",No One,2,4,4,3,3,3,3,2,3,2,3,-1,-1,0,0,0,0,1,0,1,3.67,3,2.33,-0.67,0,0.67
+3-13-2023 16:21:02,"IIT, BHU",Varanasi,Public,"IIT, BHU",24,"Engineering, Science and Management",Grandparents,1,5,5,5,5,5,5,5,5,5,5,0,0,0,0,0,0,0,0,0,5,5,5,0,0,0
+03-05-2023 14:11,Indian Institute of Technology Bhubaneswar ,Varanasi,Public,INDIAN INSTITUTE OF TECHNOLOGY BHUBANESWAR ,24,"Engineering, Science and Management",No One,2,3,3,3,4,4,4,4,3,4,4,1,1,1,0,0,0,0,1,0,3,4,3.67,1,0,0.33
+03-10-2023 11:50,IIT Varanasi,Varanasi,Public,IIT VARANASI,24,"Engineering, Science and Management",Father,2,3,3,3,4,5,3,3,4,3,4,1,1,1,0,-1,1,1,0,1,3,4,3.33,1,0,0.67
+3-13-2023 16:20:17,KIIT,Bhubaneshwar,Private,KIIT,25,"Engineering, Science and Management",Father,2,3,4,4,4,3,4,4,4,4,4,1,0,0,0,1,0,0,0,0,3.67,3.67,4,0.33,0.33,0
+3-13-2023 15:57:28,KIIT ,Bhubaneshwar,Private,KIIT ,25,"Engineering, Science and Management",Father,1,3,3,2,5,5,3,3,3,1,3,0,0,1,-2,-2,0,0,0,2,2.67,4.33,2.33,0.33,-1.33,0.67
+3-13-2023 15:58:17,KIIT ,Bhubaneshwar,Private,KIIT ,25,"Engineering, Science and Management",Father,4,4,2,2,5,5,3,3,3,1,2,-2,0,0,-3,-3,-1,-1,-1,1,2.67,4.33,2.33,-0.67,-2.33,-0.33
+02-10-2023 18:40,Kalinga Institute of Industrial Technology,Bhubaneshwar,Private,KALINGA INSTITUTE OF INDUSTRIAL TECHNOLOGY,25,"Engineering, Science and Management",No One,5,4,5,5,2,3,4,2,4,5,2,-2,-3,-3,0,-1,-2,0,-2,-3,4.67,3,3.67,-2.67,-1,-1.67
+03-03-2023 23:35,KLE Belgaum,Belgaum,Private,KLE BELGAUM,26,"Engineering, Science and Management",Father,2,3,3,3,2,4,3,2,3,3,3,0,0,0,1,-1,0,1,0,0,3,3,2.67,0,0,0.33
+03-03-2023 23:38,KLE Belgaum,Belgaum,Private,KLE BELGAUM,26,"Engineering, Science and Management",No One,1,1,3,3,1,5,3,2,2,2,2,1,-1,-1,1,-3,-1,0,0,0,2.33,3,2,-0.33,-1,0
+03-06-2023 23:41,Kle belgaum,Belgaum,Private,KLE BELGAUM,26,"Engineering, Science and Management",Father,2,3,3,3,2,4,3,2,2,3,2,-1,-1,-1,0,-2,-1,0,0,-1,3,3,2.33,-1,-1,-0.33
+03-06-2023 23:42,Kle Belgaum,Belgaum,Private,KLE BELGAUM,26,"Engineering, Science and Management",Father,3,2,4,3,3,5,4,3,3,3,3,1,-1,0,0,-2,-1,0,0,0,3,4,3,0,-1,0
+2-26-2023 22:13:07,KLE TECHNOLOGICAL UNIVERSITY,Huballi,Private,KLE TECHNOLOGICAL UNIVERSITY,29,"Engineering, Science and Management",No One,2,3,3,3,3,3,4,3,3,5,5,2,2,2,2,2,1,2,2,0,3,3.33,3.67,2,1.67,1.33
+2-26-2023 21:42:07,"KLE Technological University, Hubli",Huballi,Private,"KLE TECHNOLOGICAL UNIVERSITY, HUBLI",29,"Engineering, Science and Management",No One,2,3,4,3,3,3,3,3,3,3,3,0,-1,0,0,0,0,0,0,0,3.33,3,3,-0.33,0,0
+2-26-2023 21:41:26,KLE technology University Hubli BVB,Huballi,Private,KLE TECHNOLOGY UNIVERSITY HUBLI BVB,29,"Engineering, Science and Management",No One,2,4,5,4,4,4,3,4,4,4,1,-3,-4,-3,-3,-3,-2,-3,-3,-3,4.33,3.67,4,-3.33,-2.67,-3
+2-26-2023 22:42:01,KLEIT Hubli,Huballi,Private,KLEIT HUBLI,29,"Engineering, Science and Management",No One,1,1,2,2,4,5,3,1,4,4,5,4,3,3,1,0,2,4,1,1,1.67,4,3,3.33,1,2
+3-13-2023 16:19:23,LPU,Phagwara,Private,LPU,27,"Engineering, Science and Management",No One,3,3,3,3,3,3,3,3,3,3,3,0,0,0,0,0,0,0,0,0,3,3,3,0,0,0
+03-05-2023 11:13,LPU ,Phagwara,Private,LPU ,27,"Engineering, Science and Management",Grandparents,4,1,3,3,5,5,4,5,3,2,4,3,1,1,-1,-1,0,-1,1,2,2.33,4.67,3.33,1.67,-0.67,0.67
+03-05-2023 11:14,LPU ,Phagwara,Private,LPU ,27,"Engineering, Science and Management",No One,3,2,4,4,4,5,5,5,3,2,2,0,-2,-2,-2,-3,-3,-3,-1,0,3.33,4.67,3.33,-1.33,-2.67,-1.33
+3-13-2023 15:46:59,LPU ,Phagwara,Private,LPU ,27,"Engineering, Science and Management",No One,2,5,5,3,5,3,5,5,3,1,4,-1,-1,1,-1,1,-1,-1,1,3,4.33,4.33,3,-0.33,-0.33,1
+3-13-2023 15:48:12,LPU ,Phagwara,Private,LPU ,27,"Engineering, Science and Management",Father,4,5,5,5,5,5,5,5,3,2,3,-2,-2,-2,-2,-2,-2,-2,0,1,5,5,3.33,-2,-2,-0.33
+3-13-2023 17:32:28,Mahipal institute of Technology ,Manipal,Private,MAHIPAL INSTITUTE OF TECHNOLOGY ,28,"Engineering, Science and Management",No One,3,3,3,2,4,4,4,3,4,2,4,1,1,2,0,0,0,1,0,2,2.67,4,3,1.33,0,1
+2-27-2023 19:26:59,Manipal institute of technology ,Manipal,Private,MANIPAL INSTITUTE OF TECHNOLOGY ,28,"Engineering, Science and Management",No One,3,3,3,3,4,3,3,4,4,2,3,0,0,0,-1,0,0,-1,-1,1,3,3.33,3.33,0,-0.33,-0.33
+03-06-2023 14:37,Manipal institute of Technology ,Manipal,Private,MANIPAL INSTITUTE OF TECHNOLOGY ,28,"Engineering, Science and Management",No One,4,3,3,3,4,3,3,2,4,2,2,-1,-1,-1,-2,-1,-1,0,-2,0,3,3.33,2.67,-1,-1.33,-0.67
+3-13-2023 15:16:22,Manipal institute of Technology ,Manipal,Private,MANIPAL INSTITUTE OF TECHNOLOGY ,28,"Engineering, Science and Management",No One,4,3,3,3,4,4,3,3,4,2,3,0,0,0,-1,-1,0,0,-1,1,3,3.67,3,0,-0.67,0
+03-03-2023 16:30,Manipal university ,Manipal,Private,MANIPAL UNIVERSITY ,28,"Engineering, Science and Management",Sibling,1,3,4,2,4,4,3,2,4,2,4,1,0,2,0,0,1,2,0,2,3,3.67,2.67,1,0.33,1.33
+3-13-2023 15:40:26,MANIT Bhopal,Bhopal,Public,MANIT BHOPAL,32,"Engineering, Science and Management",Sibling,2,2,2,1,4,5,4,1,2,3,2,0,0,1,-2,-3,-2,1,0,-1,1.67,4.33,2,0.33,-2.33,0
+3-13-2023 15:42:00,MANIT Bhopal,Bhopal,Public,MANIT BHOPAL,32,"Engineering, Science and Management",Father,4,1,2,2,5,5,5,4,4,2,5,4,3,3,0,0,0,1,1,3,1.67,5,3.33,3.33,0,1.67
+3-13-2023 20:16:35,MNIT Jaipur,Jaipur,Public,MNIT JAIPUR,30,"Engineering, Science and Management",No One,3,2,2,1,3,5,3,2,4,3,2,0,0,1,-1,-3,-1,0,-2,-1,1.67,3.67,3,0.33,-1.67,-1
+3-13-2023 20:18:28,MNIT jaipur,Jaipur,Public,MNIT JAIPUR,30,"Engineering, Science and Management",Sibling,4,3,3,2,5,5,4,3,4,1,2,-1,-1,0,-3,-3,-2,-1,-2,1,2.67,4.67,2.67,-0.67,-2.67,-0.67
+3-13-2023 20:28:50,MNIT Jaipur,Jaipur,Public,MNIT JAIPUR,30,"Engineering, Science and Management",No One,4,3,4,2,4,5,4,3,4,3,4,1,0,2,0,-1,0,1,0,1,3,4.33,3.33,1,-0.33,0.67
+3-13-2023 20:20:21,MNIT jaipur ,Jaipur,Public,MNIT JAIPUR ,30,"Engineering, Science and Management",No One,4,3,2,1,3,4,4,2,3,3,1,-2,-1,0,-2,-3,-3,-1,-2,-2,2,3.67,2.67,-1,-2.67,-1.67
+16-03-2023 12:22,NIT Jaipur,Jaipur,Public,NIT JAIPUR,30,"Engineering, Science and Management",No One,2,2,2,2,3,3,4,4,4,4,4,2,2,2,1,1,0,0,0,0,2,3.33,4,2,0.67,0
+03-04-2023 22:29,NIT Allahabad,Prayagraj,Public,NIT ALLAHABAD,31,"Engineering, Science and Management",No One,3,4,3,3,2,4,4,3,3,3,3,-1,0,0,1,-1,-1,0,0,0,3.33,3.33,3,-0.33,-0.33,0
+03-04-2023 22:30,NIT Allahabad,Prayagraj,Public,NIT ALLAHABAD,31,"Engineering, Science and Management",No One,1,4,4,4,4,5,4,3,3,3,4,0,0,0,0,-1,0,1,1,1,4,4.33,3,0,-0.33,1
+03-04-2023 22:34,Nit Bhopal,Bhopal,Public,NIT BHOPAL,32,"Engineering, Science and Management",No One,4,3,3,4,3,5,3,3,3,3,2,-1,-1,-2,-1,-3,-1,-1,-1,-1,3.33,3.67,3,-1.33,-1.67,-1
+03-06-2023 11:29,NIT Bhopal,Bhopal,Public,NIT BHOPAL,32,"Engineering, Science and Management",No One,2,3,2,3,5,4,2,2,2,2,4,1,2,1,-1,0,2,2,2,2,2.67,3.67,2,1.33,0.33,2
+03-08-2023 03:09,Nit Bhopal,Bhopal,Public,NIT BHOPAL,32,"Engineering, Science and Management",No One,4,4,3,4,3,4,3,2,2,3,2,-2,-1,-2,-1,-2,-1,0,0,-1,3.67,3.33,2.33,-1.67,-1.33,-0.33
+03-10-2023 14:06,Nit Bhopal,Bhopal,Public,NIT BHOPAL,32,"Engineering, Science and Management",No One,3,3,4,4,3,5,4,3,3,3,3,0,-1,-1,0,-2,-1,0,0,0,3.67,4,3,-0.67,-1,0
+03-10-2023 14:06,Nit bhopal,Bhopal,Public,NIT BHOPAL,32,Engineering,Father,2,3,4,4,4,2,3,3,2,2,3,0,-1,-1,-1,1,0,0,1,1,3.67,3,2.33,-0.67,0,0.67
+03-10-2023 14:07,NIT Bhopal,Bhopal,Public,NIT BHOPAL,32,Engineering,Grandparents,2,2,3,4,1,2,3,2,2,1,1,-1,-2,-3,0,-1,-2,-1,-1,0,3,2,1.67,-2,-1,-0.67
+03-10-2023 14:08,NIT BHOPAL,Bhopal,Public,NIT BHOPAL,32,Engineering,Grandparents,4,3,3,4,3,5,4,4,3,3,4,1,1,0,1,-1,0,0,1,1,3.33,4,3.33,0.67,0,0.67
+3-13-2023 17:21:43,NIT Bhopal,Bhopal,Public,NIT BHOPAL,32,Engineering,Sibling,2,4,4,3,4,5,4,4,4,3,5,1,1,2,1,0,1,1,1,2,3.67,4.33,3.67,1.33,0.67,1.33
+3-13-2023 17:22:29,NIT Bhopal,Bhopal,Public,NIT BHOPAL,32,Engineering,Father,3,2,2,2,4,4,4,4,4,4,4,2,2,2,0,0,0,0,0,0,2,4,4,2,0,0
+03-10-2023 14:05,Nit Bhopal ,Bhopal,Public,NIT BHOPAL ,32,Engineering,No One,1,3,4,3,2,4,3,2,3,3,2,-1,-2,-1,0,-2,-1,0,-1,-1,3.33,3,2.67,-1.33,-1,-0.67
+03-08-2023 03:08,Nit Bhopla,Bhopal,Public,NIT BHOPLA,32,Engineering,No One,1,3,4,4,3,4,3,3,3,3,3,0,-1,-1,0,-1,0,0,0,0,3.67,3.33,3,-0.67,-0.33,0
+16-03-2023 12:21,NIT bhopal,Bhopal,Public,NIT BHOPAL,32,Engineering,No One,2,2,2,2,3,4,3,4,4,4,4,2,2,2,1,0,1,0,0,0,2,3.33,4,2,0.67,0
+03-03-2023 16:12,NIT Calicut,Calicut,Public,NIT CALICUT,33,Engineering,No One,1,3,3,3,4,4,4,2,4,1,3,0,0,0,-1,-1,-1,1,-1,2,3,4,2.33,0,-1,0.67
+03-03-2023 19:14,NIT Calicut,Calicut,Public,NIT CALICUT,33,Engineering,Sibling,1,4,4,4,2,5,5,3,3,4,3,-1,-1,-1,1,-2,-2,0,0,-1,4,4,3.33,-1,-1,-0.33
+03-06-2023 23:39,Nit calicut,Calicut,Public,NIT CALICUT,33,Commerce and Economics,Father,3,3,4,3,1,4,3,3,2,2,2,-1,-2,-1,1,-2,-1,-1,0,0,3.33,2.67,2.33,-1.33,-0.67,-0.33
+03-06-2023 23:40,Nit calicut,Calicut,Public,NIT CALICUT,33,Commerce and Economics,No One,1,4,4,4,2,4,4,3,3,3,3,-1,-1,-1,1,-1,-1,0,0,0,4,3.33,3,-1,-0.33,0
+03-10-2023 14:14,Nit Calicut,Calicut,Public,NIT CALICUT,33,Commerce and Economics,No One,2,4,4,4,2,4,3,4,3,4,3,-1,-1,-1,1,-1,0,-1,0,-1,4,3,3.67,-1,0,-0.67
+03-08-2023 03:07,Nit durgapur,Durgapur,Public,NIT DURGAPUR,34,Commerce and Economics,No One,3,3,3,3,2,4,3,3,3,3,2,-1,-1,-1,0,-2,-1,-1,-1,-1,3,3,3,-1,-1,-1
+03-08-2023 03:08,NIT Durgapur,Durgapur,Public,NIT DURGAPUR,34,Commerce and Economics,Father,2,2,3,3,1,5,2,2,1,2,1,-1,-2,-2,0,-4,-1,-1,0,-1,2.67,2.67,1.67,-1.67,-1.67,-0.67
+03-10-2023 14:09,NIT Durgapur,Durgapur,Public,NIT DURGAPUR,34,Commerce and Economics,Father,3,3,4,4,4,3,4,4,3,4,3,0,-1,-1,-1,0,-1,-1,0,-1,3.67,3.67,3.67,-0.67,-0.67,-0.67
+03-10-2023 14:10,NIT durgapur,Durgapur,Public,NIT DURGAPUR,34,Commerce and Economics,No One,3,3,3,2,2,3,3,2,2,2,2,-1,-1,0,0,-1,-1,0,0,0,2.67,2.67,2,-0.67,-0.67,0
+03-10-2023 14:10,Nit durgapur,Durgapur,Public,NIT DURGAPUR,34,Commerce and Economics,Father,2,4,4,3,3,3,3,3,2,3,3,-1,-1,0,0,0,0,0,1,0,3.67,3,2.67,-0.67,0,0.33
+03-10-2023 14:11,NIT DURGAPUR,Durgapur,Public,NIT DURGAPUR,34,Commerce and Economics,No One,2,4,4,4,4,2,2,3,3,3,2,-2,-2,-2,-2,0,0,-1,-1,-1,4,2.67,3,-2,-0.67,-1
+03-10-2023 14:11,Nit Durgapur,Durgapur,Public,NIT DURGAPUR,34,Commerce and Economics,Father,2,4,3,3,3,3,4,3,3,4,3,-1,0,0,0,0,-1,0,0,-1,3.33,3.33,3.33,-0.33,-0.33,-0.33
+03-05-2023 12:53,NIT DURGAPUR ,Durgapur,Public,NIT DURGAPUR ,34,"Engineering, Science, Management, Law, and Medicine",No One,1,3,3,2,2,4,4,1,3,2,4,1,1,2,2,0,0,3,1,2,2.67,3.33,2,1.33,0.67,2
+3-13-2023 15:47:31,"NIT, Durgapur",Durgapur,Public,"NIT, DURGAPUR",34,"Engineering, Science, Management, Law, and Medicine",No One,2,3,3,2,3,5,3,2,3,3,3,0,0,1,0,-2,0,1,0,0,2.67,3.67,2.67,0.33,-0.67,0.33
+3-13-2023 15:48:52,"NIT, Durgapur",Durgapur,Public,"NIT, DURGAPUR",34,"Engineering, Science, Management, Law, and Medicine",Father,2,4,4,3,5,5,4,3,5,3,5,1,1,2,0,0,1,2,0,2,3.67,4.67,3.67,1.33,0.33,1.33
+3-13-2023 15:50:05,"NIT, Durgapur",Durgapur,Public,"NIT, DURGAPUR",34,"Arts, Science, and Commerce",Father,2,3,4,3,5,5,4,3,4,3,5,2,1,2,0,0,1,2,1,2,3.33,4.67,3.33,1.67,0.33,1.67
+03-11-2023 09:59,NIT Nagpur,Nagpur,Public,NIT NAGPUR,35,"Arts, Science, and Commerce",No One,2,3,4,4,4,4,4,4,4,4,4,1,0,0,0,0,0,0,0,0,3.67,4,4,0.33,0,0
+3-13-2023 17:16:55,NIT Nagpur,Nagpur,Public,NIT NAGPUR,35,"Engineering, Science, Management, Law, and Medicine",No One,2,4,2,2,4,4,4,3,4,4,4,0,2,2,0,0,0,1,0,0,2.67,4,3.67,1.33,0,0.33
+3-13-2023 17:20:54,NIT Nagpur,Nagpur,Public,NIT NAGPUR,35,"Engineering, Science, Management, Law, and Medicine",No One,2,2,2,3,4,4,4,4,4,4,3,1,1,0,-1,-1,-1,-1,-1,-1,2.33,4,4,0.67,-1,-1
+2-27-2023 12:02:49,NIT Nagpur(VNIT),Nagpur,Public,NIT NAGPUR(VNIT),35,Management ,No One,2,2,3,4,5,5,4,4,4,3,4,2,1,0,-1,-1,0,0,0,1,3,4.67,3.67,1,-0.67,0.33
+3-13-2023 17:19:32,NIT Napgpur,Nagpur,Public,NIT NAPGPUR,35,Management ,No One,2,3,2,2,4,4,4,2,4,4,4,1,2,2,0,0,0,2,0,0,2.33,4,3.33,1.67,0,0.67
+02-12-2023 23:01,Vnit,Nagpur,Public,VNIT,35,Management ,No One,2,1,1,2,5,5,5,5,1,2,3,2,2,1,-2,-2,-2,-2,2,1,1.33,5,2.67,1.67,-2,0.33
+02-08-2023 15:37,VNIT Nagpur,Nagpur,Public,VNIT NAGPUR,35,"Arts, Science, Commerce, and Management",No One,2,2,3,4,5,5,5,4,2,2,4,2,1,0,-1,-1,-1,0,2,2,3,5,2.67,1,-1,1.33
+03-03-2023 19:09,NIT Rourkela,Rourkela,Public,NIT ROURKELA,36,"Arts, Science, Commerce, and Management",No One,3,2,3,3,2,5,3,2,3,2,1,-1,-2,-2,-1,-4,-2,-1,-2,-1,2.67,3.33,2.33,-1.67,-2.33,-1.33
+03-10-2023 14:12,Nit rourkela,Rourkela,Public,NIT ROURKELA,36,Engineering,Mother,2,3,4,3,3,4,4,3,3,3,2,-1,-2,-1,-1,-2,-2,-1,-1,-1,3.33,3.67,3,-1.33,-1.67,-1
+3-13-2023 16:02:16,NIT Rourkela ,Rourkela,Public,NIT ROURKELA ,36,Engineering,Sibling,4,3,4,2,5,5,5,5,3,2,5,2,1,3,0,0,0,0,2,3,3,5,3.33,2,0,1.67
+3-13-2023 16:02:59,NIT Rourkela ,Rourkela,Public,NIT ROURKELA ,36,"Engineering, Science, Management, Law, and Medicine",No One,4,2,2,2,1,5,1,2,3,1,1,-1,-1,-1,0,-4,0,-1,-2,0,2,2.33,2,-1,-1.33,-1
+3-13-2023 16:08:11,NIT Silchar ,Silchar,Public,NIT SILCHAR ,37,"Engineering, Science, Management, Law, and Medicine",No One,3,1,3,1,2,1,4,1,3,1,1,0,-2,0,-1,0,-3,0,-2,0,1.67,2.33,1.67,-0.67,-1.33,-0.67
+3-13-2023 16:09:15,NIT Silchar ,Silchar,Public,NIT SILCHAR ,37,"Engineering, Science, Management, Law, and Medicine",No One,4,2,4,2,5,5,5,3,3,1,4,2,0,2,-1,-1,-1,1,1,3,2.67,5,2.33,1.33,-1,1.67
+02-08-2023 23:22,NIT Trichy,Tiruchirappalli,Public,NIT TRICHY,38,"Engineering, Science, Management, Law, and Medicine",Sibling,4,4,4,2,4,5,4,4,3,2,4,0,0,2,0,-1,0,0,1,2,3.33,4.33,3,0.67,-0.33,1
+2-19-2023 9:51:24,NIT Trichy,Tiruchirappalli,Public,NIT TRICHY,38,"Engineering, Science, Management, Law, and Medicine",No One,1,4,4,2,3,2,4,3,2,3,2,-2,-2,0,-1,0,-2,-1,0,-1,3.33,3,2.67,-1.33,-1,-0.67
+2-19-2023 9:58:31,Nit trichy,Tiruchirappalli,Public,NIT TRICHY,38,"Engineering, Science, Management, Law, and Medicine",No One,1,3,4,5,2,2,3,4,1,2,3,0,-1,-2,1,1,0,-1,2,1,4,2.33,2.33,-1,0.67,0.67
+2-19-2023 10:09:41,NIT Trichy,Tiruchirappalli,Public,NIT TRICHY,38,"Engineering, Science, Management, Law, and Medicine",No One,1,3,4,4,3,4,3,4,3,2,4,1,0,0,1,0,1,0,1,2,3.67,3.33,3,0.33,0.67,1
+2-19-2023 10:16:41,Nit Trichy,Tiruchirappalli,Public,NIT TRICHY,38,"Engineering, Science, Management, Law, and Medicine",Sibling,2,5,5,4,4,3,4,3,3,1,3,-2,-2,-1,-1,0,-1,0,0,2,4.67,3.67,2.33,-1.67,-0.67,0.67
+2-19-2023 15:41:50,NIT Trichy,Tiruchirappalli,Public,NIT TRICHY,38,"Engineering, Science, Management, Law, and Medicine",No One,2,3,4,3,3,5,3,2,2,3,2,-1,-2,-1,-1,-3,-1,0,0,-1,3.33,3.67,2.33,-1.33,-1.67,-0.33
+03-04-2023 22:32,NIT Trichy,Tiruchirappalli,Public,NIT TRICHY,38,"Engineering, Science, Management, Law, and Medicine",Father,3,4,4,4,2,5,4,4,3,3,2,-2,-2,-2,0,-3,-2,-2,-1,-1,4,3.67,3.33,-2,-1.67,-1.33
+03-04-2023 22:33,Nit Trichy,Tiruchirappalli,Public,NIT TRICHY,38,"Engineering, Science, Management, Law, and Medicine",Grandparents,2,4,5,5,2,5,4,4,4,3,4,0,-1,-1,2,-1,0,0,0,1,4.67,3.67,3.67,-0.67,0.33,0.33
+03-08-2023 14:50,NIT Trichy,Tiruchirappalli,Public,NIT TRICHY,38,Engineering ,No One,2,4,4,3,4,5,4,3,3,2,3,-1,-1,0,-1,-2,-1,0,0,1,3.67,4.33,2.67,-0.67,-1.33,0.33
+03-10-2023 11:55,NIT Trichy,Tiruchirappalli,Public,NIT TRICHY,38,Engineering ,Sibling,2,4,4,2,5,4,3,3,4,3,5,1,1,3,0,1,2,2,1,2,3.33,4,3.33,1.67,1,1.67
+3-13-2023 15:32:03,Nit trichy,Tiruchirappalli,Public,NIT TRICHY,38,"Engineering, Science, and Management",No One,2,4,4,4,3,5,4,4,4,2,3,-1,-1,-1,0,-2,-1,-1,-1,1,4,4,3.33,-1,-1,-0.33
+3-13-2023 19:14:40,NIT TRICHY,Tiruchirappalli,Public,NIT TRICHY,38,"Engineering, Science, and Management",No One,3,3,3,2,5,5,3,3,3,2,3,0,0,1,-2,-2,0,0,0,1,2.67,4.33,2.67,0.33,-1.33,0.33
+2-19-2023 10:37:16,Nit Trichy ,Tiruchirappalli,Public,NIT TRICHY ,38,Science,No One,1,4,4,4,3,5,4,4,3,5,5,1,1,1,2,0,1,1,2,0,4,4,4,1,1,1
+2-19-2023 10:44:25,Nit Trichy ,Tiruchirappalli,Public,NIT TRICHY ,38,Science,No One,1,3,4,2,2,3,3,3,2,3,2,-1,-2,0,0,-1,-1,-1,0,-1,3,2.67,2.67,-1,-0.67,-0.67
+3-13-2023 15:50:52,"NIT, Trichy",Tiruchirappalli,Public,"NIT, TRICHY",38,"Engineering, Science, and Humanities",No One,4,4,4,4,3,3,4,4,4,4,4,0,0,0,1,1,0,0,0,0,4,3.33,4,0,0.67,0
+3-13-2023 15:51:25,"NIT, Trichy",Tiruchirappalli,Public,"NIT, TRICHY",38,"Engineering, Science, and Humanities",Father,1,5,5,5,5,5,5,5,5,5,5,0,0,0,0,0,0,0,0,0,5,5,5,0,0,0
+3-13-2023 15:55:21,"NIT, Trichy",Tiruchirappalli,Public,"NIT, TRICHY",38,"Commerce, Management, Arts, and Science",No One,1,5,5,5,3,3,5,5,5,5,5,0,0,0,2,2,0,0,0,0,5,3.67,5,0,1.33,0
+2-19-2023 9:32:05,"Nit, Trichy ",Tiruchirappalli,Public,"NIT, TRICHY ",38,"Commerce, Management, Arts, and Science",No One,1,3,3,3,4,3,3,4,3,2,4,1,1,1,0,1,1,0,1,2,3,3.33,3,1,0.67,1
+02-08-2023 23:11,NITT,Tiruchirappalli,Public,NITT,38,Engineering,Father,3,1,3,3,2,4,2,3,2,3,4,3,1,1,2,0,2,1,2,1,2.33,2.67,2.67,1.67,1.33,1.33
+2-19-2023 9:50:28,NITT,Tiruchirappalli,Public,NITT,38,Engineering,No One,2,1,1,3,2,5,2,2,1,1,2,1,1,-1,0,-3,0,0,1,1,1.67,3,1.33,0.33,-1,0.67
+3-13-2023 17:36:20,nitt,Tiruchirappalli,Public,NITT,38,"Agriculture, Science, Management, and Technology",No One,3,2,2,1,2,5,2,2,4,1,1,-1,-1,0,-1,-4,-1,-1,-3,0,1.67,3,2.33,-0.67,-2,-1.33
+03-03-2023 16:26,Nit Warangal,Warangal,Public,NIT WARANGAL,39,"Agriculture, Science, Management, and Technology",No One,3,3,3,3,3,3,3,2,4,2,2,-1,-1,-1,-1,-1,-1,0,-2,0,3,3,2.67,-1,-1,-0.67
+03-03-2023 19:13,NIT Warangal,Warangal,Public,NIT WARANGAL,39,"Agriculture, Science, Management, and Technology",No One,4,3,4,4,2,5,4,4,3,2,2,-1,-2,-2,0,-3,-2,-2,-1,0,3.67,3.67,3,-1.67,-1.67,-1
+03-04-2023 22:31,NIT Warangal,Warangal,Public,NIT WARANGAL,39,"Agriculture, Science, Management, and Technology",No One,2,4,4,4,4,4,4,3,3,3,3,-1,-1,-1,-1,-1,-1,0,0,0,4,4,3,-1,-1,0
+03-04-2023 22:31,NIT Warangal,Warangal,Public,NIT WARANGAL,39,Engineering ,Father,2,2,3,3,3,3,3,2,2,2,1,-1,-2,-2,-2,-2,-2,-1,-1,-1,2.67,3,2,-1.67,-2,-1
+03-06-2023 23:37,Nit Warangal ,Warangal,Public,NIT WARANGAL ,39,Engineering ,Grandparents,2,4,4,4,3,4,3,3,3,3,2,-2,-2,-2,-1,-2,-1,-1,-1,-1,4,3.33,3,-2,-1.33,-1
+03-06-2023 23:38,Nit Warangal ,Warangal,Public,NIT WARANGAL ,39,Engineering,No One,1,3,3,3,2,5,3,2,2,2,1,-2,-2,-2,-1,-4,-2,-1,-1,-1,3,3.33,2,-2,-2.33,-1
+03-11-2023 01:32,PICT,Warangal,Public,PICT,39,"Engineering, Science, Management, Law, and Medicine",No One,2,3,3,3,4,5,3,3,4,5,3,0,0,0,-1,-2,0,0,-1,-2,3,4,4,0,-1,-1
+03-11-2023 01:33,PICT,Warangal,Public,PICT,39,Dairy Technology,No One,2,2,4,2,4,4,4,4,5,4,4,2,0,2,0,0,0,0,-1,0,2.67,4,4.33,1.33,0,-0.33
+02-11-2023 11:05,Pune Institute of Computer Technology,Warangal,Public,PUNE INSTITUTE OF COMPUTER TECHNOLOGY,39,"Engineering, Science, Management, Law, and Humanities",Mother,2,3,3,3,2,3,2,3,2,4,3,0,0,0,1,0,1,0,1,-1,3,2.33,3,0,0.67,0
+03-03-2023 23:36,RVCE,Bangalore,Private,RVCE,40,Medical,No One,4,4,3,4,2,4,4,4,4,5,2,-2,-1,-2,0,-2,-2,-2,-2,-3,3.67,3.33,4.33,-1.67,-1.33,-2.33
+03-03-2023 23:36,RVCE,Bangalore,Private,RVCE,40,"Arts, Science and Commerce",No One,2,4,4,4,2,4,3,3,3,5,3,-1,-1,-1,1,-1,0,0,0,-2,4,3,3.67,-1,0,-0.67
+03-03-2023 23:37,RVCE,Bangalore,Private,RVCE,40,"Arts, Science and Commerce",Father,3,4,2,3,2,5,3,2,2,4,1,-3,-1,-2,-1,-4,-2,-1,-1,-3,3,3.33,2.67,-2,-2.33,-1.67
+3-13-2023 19:39:40,RVCE,Bangalore,Private,RVCE,40,Engineering and Management ,No One,3,4,4,3,5,5,4,3,4,5,5,1,1,2,0,0,1,2,1,0,3.67,4.67,4,1.33,0.33,1
+3-13-2023 19:40:15,RVCE,Bangalore,Private,RVCE,40,Commerce and Economics,Grandparents,1,2,2,1,3,4,4,3,3,5,4,2,2,3,1,0,0,1,1,-1,1.67,3.67,3.67,2.33,0.33,0.33
+03-08-2023 03:10,RVCE bangalore,Bangalore,Private,RVCE BANGALORE,40,Engineering ,Grandparents,2,4,4,4,4,4,3,4,3,4,3,-1,-1,-1,-1,-1,0,-1,0,-1,4,3.67,3.67,-1,-0.67,-0.67
+03-08-2023 03:10,RVCE bangalore,Bangalore,Private,RVCE BANGALORE,40,Engineering,No One,2,4,5,3,3,5,4,3,3,5,2,-2,-3,-1,-1,-3,-2,-1,-1,-3,4,4,3.67,-2,-2,-1.67
+3-13-2023 15:21:02,SRCC,Delhi,Private,SRCC,41,Medical,No One,3,3,2,2,4,2,5,2,4,5,3,0,1,1,-1,1,-2,1,-1,-2,2.33,3.67,3.67,0.67,-0.67,-0.67
+3-13-2023 15:27:09,SRCC,Delhi,Private,SRCC,41,Engineering,No One,2,3,3,2,5,5,5,2,4,5,4,1,1,2,-1,-1,-1,2,0,-1,2.67,5,3.67,1.33,-1,0.33
+3-13-2023 15:27:24,SRCC,Delhi,Private,SRCC,41,Engineering ,Father,2,4,1,1,5,5,1,3,5,5,5,1,4,4,0,0,4,2,0,0,2,3.67,4.33,3,1.33,0.67
+3-13-2023 15:30:48,SRCC,Delhi,Private,SRCC,41,"Arts, Science and Commerce",No One,1,3,2,2,2,5,3,2,5,4,2,-1,0,0,0,-3,-1,0,-3,-2,2.33,3.33,3.67,-0.33,-1.33,-1.67
+3-13-2023 15:34:47,SRCC,Delhi,Private,SRCC,41,"Engineering, Management, and Applied Sciences",No One,4,4,2,1,2,3,4,3,4,5,2,-2,0,1,0,-1,-2,-1,-2,-3,2.33,3,4,-0.33,-1,-2
+3-13-2023 17:12:46,srcc,Delhi,Private,SRCC,41,Engineering,No One,4,3,3,3,3,3,3,3,3,4,3,0,0,0,0,0,0,0,0,-1,3,3,3.33,0,0,-0.33
+3-13-2023 19:06:53,SRCC,Delhi,Private,SRCC,41,Engineering ,Father,2,4,3,2,4,5,3,3,4,5,4,0,1,2,0,-1,1,1,0,-1,3,4,4,1,0,0
+3-13-2023 19:38:28,SRCC,Delhi,Private,SRCC,41,Engineering,Father,3,3,3,2,4,5,3,3,4,4,3,0,0,1,-1,-2,0,0,-1,-1,2.67,4,3.67,0.33,-1,-0.67
+3-13-2023 19:39:01,SRCC,Delhi,Private,SRCC,41,"Arts, Science and Commerce",No One,4,4,4,4,4,4,4,4,4,5,5,1,1,1,1,1,1,1,1,0,4,4,4.33,1,1,0.67
+3-13-2023 20:04:50,SRCC,Delhi,Private,SRCC,41,Engineering ,No One,4,4,3,2,4,4,4,3,3,4,4,0,1,2,0,0,0,1,1,0,3,4,3.33,1,0,0.67
+03-03-2023 16:38,SRM,Chennai,Private,SRM,42,Engineering and Science,No One,3,3,3,3,5,4,4,3,4,3,4,1,1,1,-1,0,0,1,0,1,3,4.33,3.33,1,-0.33,0.67
+3-13-2023 16:15:55,SRM Chennai ,Chennai,Private,SRM CHENNAI ,42,Engineering,Father,4,3,4,2,5,5,4,4,3,4,5,2,1,3,0,0,1,1,2,1,3,4.67,3.67,2,0.33,1.33
+3-13-2023 16:16:58,SRM Chennai ,Chennai,Private,SRM CHENNAI ,42,"Science, Commerce and Management ",Father,2,3,4,2,5,3,4,5,3,4,2,-1,-2,0,-3,-1,-2,-3,-1,-2,3,4,4,-1,-2,-2
+2-19-2023 2:49:13,SRM KTR,Chennai,Public,SRM KTR,44,"Engineering, Science, Humanities, and Social Sciences",No One,2,3,3,4,4,5,3,3,3,3,3,0,0,-1,-1,-2,0,0,0,0,3.33,4,3,-0.33,-1,0
+03-03-2023 16:29,SRM university,Chennai,Public,SRM UNIVERSITY,44,Medical,Father,3,4,4,2,5,3,4,3,2,4,3,-1,-1,1,-2,0,-1,0,1,-1,3.33,4,3,-0.33,-1,0
+3-13-2023 15:41:05,Symbiosis Institute of Business Management Pune,Pune,Private,SYMBIOSIS INSTITUTE OF BUSINESS MANAGEMENT PUNE,44,Engineering ,Sibling,3,4,4,4,4,4,4,4,4,4,4,0,0,0,0,0,0,0,0,0,4,4,4,0,0,0
+3-13-2023 15:42:18,Symbiosis Institute of Business Management Pune,Pune,Private,SYMBIOSIS INSTITUTE OF BUSINESS MANAGEMENT PUNE,44,"Humanities, Social Sciences, and Commerce",Father,2,5,4,4,4,5,4,4,5,5,5,0,1,1,1,0,1,1,0,0,4.33,4.33,4.67,0.67,0.67,0.33
+3-13-2023 15:43:07,Symbiosis Institute of Business Management Pune,Pune,Private,SYMBIOSIS INSTITUTE OF BUSINESS MANAGEMENT PUNE,44,Engineering ,No One,3,4,5,4,4,4,4,4,4,4,4,0,-1,0,0,0,0,0,0,0,4.33,4,4,-0.33,0,0
+3-13-2023 16:00:45,University of Mumbai ,Mumbai,Private,UNIVERSITY OF MUMBAI ,45,Engineering ,Father,3,2,3,2,5,5,5,5,5,5,5,3,2,3,0,0,0,0,0,0,2.33,5,5,2.67,0,0
+3-13-2023 16:01:22,University of Mumbai ,Mumbai,Private,UNIVERSITY OF MUMBAI ,45,"Engineering, Management, Law, and Design",No One,4,3,3,1,3,5,2,3,4,5,2,-1,-1,1,-1,-3,0,-1,-2,-3,2.33,3.33,4,-0.33,-1.33,-2
+2-26-2023 18:08:06,"VIIT, pune-48 ",Pune,Public,"VIIT, PUNE-48 ",46,Engineering ,Father,2,3,4,5,4,3,4,4,3,5,4,1,0,-1,0,1,0,0,1,-1,4,3.67,4,0,0.33,0
+2-26-2023 17:16:59,Vishwakarma institute of information technology Pune ,Pune,Public,VISHWAKARMA INSTITUTE OF INFORMATION TECHNOLOGY PUNE ,46,,No One,2,2,5,3,3,5,3,2,4,5,2,0,-3,-1,-1,-3,-1,0,-2,-3,3.33,3.67,3.67,-1.33,-1.67,-1.67
+2-24-2023 22:09:49,VIT,Vellore,Private,VIT,47,,No One,3,2,3,3,5,3,5,2,2,2,4,2,1,1,-1,1,-1,2,2,2,2.67,4.33,2,1.33,-0.33,2
+3-13-2023 20:12:04,VIT,Vellore,Private,VIT,47,,No One,1,3,3,2,3,5,4,3,4,2,3,0,0,1,0,-2,-1,0,-1,1,2.67,4,3,0.33,-1,0
+3-13-2023 20:13:53,VIT ,Vellore,Public,VIT ,47,,No One,4,3,3,2,4,5,4,3,4,1,2,-1,-1,0,-2,-3,-2,-1,-2,1,2.67,4.33,2.67,-0.67,-2.33,-0.67
+03-03-2023 16:28,Vit vellore,Vellore,Public,VIT VELLORE,47,,No One,3,4,3,4,4,3,5,5,3,3,4,0,1,0,0,1,-1,-1,1,1,3.67,4,3.67,0.33,0,0.33
+03-03-2023 19:07,VIT Vellore,Vellore,Public,VIT VELLORE,47,,No One,2,3,4,4,2,4,4,3,3,3,2,-1,-2,-2,0,-2,-2,-1,-1,-1,3.67,3.33,3,-1.67,-1.33,-1
+03-03-2023 19:10,VIT Vellore,Vellore,Public,VIT VELLORE,47,,Father,1,4,3,4,4,4,4,4,4,4,4,0,1,0,0,0,0,0,0,0,3.67,4,4,0.33,0,0
+03-05-2023 07:09,VIT Vellore,Vellore,Public,VIT VELLORE,47,,No One,2,4,4,4,4,4,4,4,4,4,4,0,0,0,0,0,0,0,0,0,4,4,4,0,0,0
+3-13-2023 19:06:28,vit vellore,Vellore,Public,VIT VELLORE,47,,No One,3,3,3,2,4,4,3,2,2,2,2,-1,-1,0,-2,-2,-1,0,0,0,2.67,3.67,2,-0.67,-1.67,0
+3-13-2023 16:04:10,VIT Vellore ,Vellore,Public,VIT VELLORE ,47,,Father,4,3,5,3,5,5,5,5,3,3,5,2,0,2,0,0,0,0,2,2,3.67,5,3.67,1.33,0,1.33
+3-13-2023 16:04:52,VIT Vellore ,Vellore,Public,VIT VELLORE ,47,,Father,3,4,5,2,5,5,5,5,2,2,1,-3,-4,-1,-4,-4,-4,-4,-1,-1,3.67,5,3,-2.67,-4,-2
+2-24-2023 22:22:58,VIT-AP,Vellore,Public,VIT-AP,47,,No One,3,2,3,3,5,5,4,3,4,2,4,2,1,1,-1,-1,0,1,0,2,2.67,4.67,3,1.33,-0.67,1
+03-03-2023 23:39,VTU Bangalore,Bangalore,Public,VTU BANGALORE,48,,Father,2,4,4,4,3,4,3,3,3,5,3,-1,-1,-1,0,-1,0,0,0,-2,4,3.33,3.67,-1,-0.33,-0.67
+03-03-2023 23:40,VTU Bangalore,Bangalore,Public,VTU BANGALORE,48,,No One,1,4,4,4,3,4,3,3,3,4,3,-1,-1,-1,0,-1,0,0,0,-1,4,3.33,3.33,-1,-0.33,-0.33
+03-05-2023 11:08,IIEST Shibpur ,Shibpur,Public,IIEST SHIBPUR ,49,,Father,2,1,1,1,3,4,5,1,3,2,1,0,0,0,-2,-3,-4,0,-2,-1,1,4,2,0,-3,-1
+03-05-2023 11:11,IIEST Shibpur ,Shibpur,Public,IIEST SHIBPUR ,49,,No One,3,1,1,2,3,5,4,2,3,2,3,2,2,1,0,-2,-1,1,0,1,1.33,4,2.33,1.67,-1,0.67
+3-13-2023 15:45:05,IISER Bhopal,Bhopal,Public,IISER BHOPAL,50,,Grandparents,3,1,1,1,4,5,3,2,3,2,3,2,2,2,-1,-2,0,1,0,1,1,4,2.33,2,-1,0.67
+3-13-2023 15:45:57,IISER Bhopal,Bhopal,Public,IISER BHOPAL,50,,No One,2,1,1,1,1,5,3,1,3,1,1,0,0,0,0,-4,-2,0,-2,0,1,3,1.67,0,-2,-0.67
+03-08-2023 03:12,IIT mandi,Mandi,Public,IIT MANDI,51,,No One,2,4,3,4,3,5,4,3,3,3,3,-1,0,-1,0,-2,-1,0,0,0,3.67,4,3,-0.67,-1,0
+03-08-2023 03:13,IIT Mandi,Mandi,Public,IIT MANDI,51,,Grandparents,2,4,4,5,2,4,4,4,3,2,3,-1,-1,-2,1,-1,-1,-1,0,1,4.33,3.33,3,-1.33,-0.33,0
+03-05-2023 22:23,Kristu jayanti,Bangalore,Public,KRISTU JAYANTI,52,,No One,3,2,2,3,3,5,4,3,4,2,3,1,1,0,0,-2,-1,0,-1,1,2.33,4,3,0.67,-1,0
+03-06-2023 01:35,kristu jayanti college,Bangalore,Public,KRISTU JAYANTI COLLEGE,52,,No One,3,1,1,5,4,5,5,5,5,2,4,3,3,-1,0,-1,-1,-1,-1,2,2.33,4.67,4,1.67,-0.67,0
+3-13-2023 15:56:45,PEC ,Chandigarh,Private,PEC ,53,,No One,3,2,2,2,5,5,3,3,2,2,2,0,0,0,-3,-3,-1,-1,0,0,2,4.33,2.33,0,-2.33,-0.33
+3-13-2023 15:49:53,PEC Chandigarh ,Chandigarh,Private,PEC CHANDIGARH ,53,,No One,1,1,1,1,1,5,3,3,2,3,1,0,0,0,0,-4,-2,-2,-1,-2,1,3,2.67,0,-2,-1.67
+03-05-2023 13:10,SAM HIGGINBOTTOM UNIVERSITY OF AGRICULTURE TECHNOLOGY AND SCIENCES ,Prayagraj,Public,SAM HIGGINBOTTOM UNIVERSITY OF AGRICULTURE TECHNOLOGY AND SCIENCES ,54,,No One,2,3,3,2,5,5,4,3,4,4,4,1,1,2,-1,-1,0,1,0,0,2.67,4.67,3.67,1.33,-0.67,0.33
+03-05-2023 13:13,Sam Higginbottom University of Agriculture technology and Sciences ,Prayagraj,Public,SAM HIGGINBOTTOM UNIVERSITY OF AGRICULTURE TECHNOLOGY AND SCIENCES ,54,,Father,2,5,5,1,5,5,5,3,3,3,5,0,0,4,0,0,0,2,2,2,3.67,5,3,1.33,0,2
+03-05-2023 13:15,SHUATS,Prayagraj,Public,SHUATS,54,,No One,2,4,3,3,4,3,4,3,3,3,3,-1,0,0,-1,0,-1,0,0,0,3.33,3.67,3,-0.33,-0.67,0
+03-05-2023 13:18,Shuats ,Prayagraj,Public,SHUATS ,54,,No One,2,3,3,3,3,4,4,3,3,3,3,0,0,0,0,-1,-1,0,0,0,3,3.67,3,0,-0.67,0
+2-27-2023 20:17:07,Blde clg,Bijapur,Public,BLDE CLG,55,,No One,2,2,3,1,4,5,3,2,4,1,2,0,-1,1,-2,-3,-1,0,-2,1,2,4,2.33,0,-2,-0.33
+2-27-2023 21:11:28,BLDEA's V P Dr PG Halakatti College of Engineering & Technology,Bijapur,Public,BLDEA'S V P DR PG HALAKATTI COLLEGE OF ENGINEERING & TECHNOLOGY,55,,No One,2,1,1,2,3,2,2,2,3,4,3,2,2,1,0,1,1,1,0,-1,1.33,2.33,3,1.67,0.67,0
+03-05-2023 14:00,Dyal singh college ,Delhi,Private,DYAL SINGH COLLEGE ,43,,No One,1,3,3,3,4,4,5,5,4,4,3,0,0,0,-1,-1,-2,-2,-1,-1,3,4.33,4.33,0,-1.33,-1.33
+03-05-2023 13:05,"Dyal Singh college,University of Delhi",Delhi,Private,"DYAL SINGH COLLEGE,UNIVERSITY OF DELHI",43,,No One,1,3,5,5,3,4,3,2,3,5,2,-1,-3,-3,-1,-2,-1,0,-1,-3,4.33,3.33,3.33,-2.33,-1.33,-1.33
+02-09-2023 23:01,Vit Chennai ,Chennai,Private,VIT CHENNAI ,101,,Father,2,3,3,4,3,3,3,2,4,4,3,0,0,-1,0,0,0,1,-1,-1,3.33,3,3.33,-0.33,0,-0.33
+03-05-2023 13:13,Warners college of dairy technology,Prayagraj,Private,WARNERS COLLEGE OF DAIRY TECHNOLOGY,102,,No One,2,2,3,1,4,2,3,1,3,2,3,1,0,2,-1,1,0,2,0,1,2,3,2,1,0,1
+02-08-2023 17:26,Amity University ,Delhi,Private,AMITY UNIVERSITY ,103,,No One,5,2,2,3,2,4,3,2,2,4,2,0,0,-1,0,-2,-1,0,0,-2,2.33,3,2.67,-0.33,-1,-0.67
+3-13-2023 16:12:39,AIMS Delhi ,Delhi,Private,AIMS DELHI ,104,,Father,5,5,1,1,5,5,5,5,3,5,1,-4,0,0,-4,-4,-4,-4,-2,-4,2.33,5,4.33,-1.33,-4,-3.33
+2-27-2023 12:33:39,ARSD delhi university,Delhi,Public,ARSD DELHI UNIVERSITY,105,,No One,2,3,3,4,3,5,5,3,5,5,4,1,1,0,1,-1,-1,1,-1,-1,3.33,4.33,4.33,0.67,-0.33,-0.33
+02-10-2023 09:36,"Asutosh College, University of Calcutta ",Kolkata,Public,"ASUTOSH COLLEGE, UNIVERSITY OF CALCUTTA ",106,,Father,4,4,1,1,3,3,3,1,4,1,5,1,4,4,2,2,2,4,1,4,2,3,2,3,2,3
+2-26-2023 21:52:13,B.L.D.E.A'sV.P. Dr. P.G. Halakatti College of Engg. & Tech,Bijapur,Public,B.L.D.E.A'SV.P. DR. P.G. HALAKATTI COLLEGE OF ENGG. & TECH,55,,No One,2,3,4,2,3,4,4,3,4,2,5,2,1,3,2,1,1,2,1,3,3,3.67,3,2,1.33,2
+2-25-2023 10:23:02,B.p.poddar Institute of Management and technology ,Kolkata,Private,B.P.PODDAR INSTITUTE OF MANAGEMENT AND TECHNOLOGY ,108,,No One,3,1,1,2,3,4,5,1,3,4,4,3,3,2,1,0,-1,3,1,0,1.33,4,2.67,2.67,0,1.33
+02-08-2023 15:06,Bal Bharati College of Commerce,Pune,Private,BAL BHARATI COLLEGE OF COMMERCE,109,,No One,2,3,3,3,5,5,3,3,3,4,3,0,0,0,-2,-2,0,0,0,-1,3,4.33,3.33,0,-1.33,-0.33
+03-01-2023 13:26,Bharati Vidyapeeth's College of Engineering,Pune,Private,BHARATI VIDYAPEETH'S COLLEGE OF ENGINEERING,110,,Father,4,5,5,3,2,5,3,4,3,5,4,-1,-1,1,2,-1,1,0,1,-1,4.33,3.33,4,-0.33,0.67,0
+03-05-2023 13:57,BIT sindri,Sindri,Public,BIT SINDRI,111,,No One,1,1,3,1,5,4,4,3,3,1,5,4,2,4,0,1,1,2,2,4,1.67,4.33,2.33,3.33,0.67,2.67
+2-26-2023 22:52:27,BMCRI bangalore ,Bangalore,Public,BMCRI BANGALORE ,112,,No One,1,1,1,1,1,5,5,1,3,5,1,0,0,0,0,-4,-4,0,-2,-4,1,3.67,3,0,-2.67,-2
+03-06-2023 00:06,BMS institute of technology ,Bangalore,Private,BMS INSTITUTE OF TECHNOLOGY ,113,,No One,3,2,3,3,4,4,3,2,4,5,4,2,1,1,0,0,1,2,0,-1,2.67,3.67,3.67,1.33,0.33,0.33
+03-01-2023 13:36,Chandigarh College of engineering and technology ,Chandigarh,Public,CHANDIGARH COLLEGE OF ENGINEERING AND TECHNOLOGY ,114,,Sibling,2,2,1,1,3,4,3,1,4,5,5,3,4,4,2,1,2,4,1,0,1.33,3.33,3.33,3.67,1.67,1.67
+03-05-2023 13:18,Dbkn college,Narhan,Private,DBKN COLLEGE,115,,Sibling,2,1,4,1,3,5,2,2,5,1,2,1,-2,1,-1,-3,0,0,-3,1,2,3.33,2.67,0,-1.33,-0.67
+2-27-2023 11:23:46,delhi technological university,Delhi,Public,DELHI TECHNOLOGICAL UNIVERSITY,116,,No One,2,4,5,1,2,4,5,5,5,5,3,-1,-2,2,1,-1,-2,-2,-2,-2,3.33,3.67,5,-0.33,-0.67,-2
+02-08-2023 17:10,Fanshawe College ,London,Private,FANSHAWE COLLEGE ,xxx,,No One,1,3,3,3,3,3,3,3,3,3,3,0,0,0,0,0,0,0,0,0,3,3,3,0,0,0
+03-05-2023 15:35,GNIOT ,Noida,Public,GNIOT ,118,,No One,3,1,1,1,5,3,3,1,1,1,5,4,4,4,0,2,2,4,4,4,1,3.67,1,4,1.33,4
+03-05-2023 13:32,"Government College of Engineering, Nagpur ",Nagput,Public,"GOVERNMENT COLLEGE OF ENGINEERING, NAGPUR ",119,,No One,2,3,4,3,4,4,3,3,4,3,3,0,-1,0,-1,-1,0,0,-1,0,3.33,3.67,3.33,-0.33,-0.67,-0.33
+03-05-2023 15:46,Government engineering College gandhinagar ,Gandhinagar,Private,GOVERNMENT ENGINEERING COLLEGE GANDHINAGAR ,120,,No One,2,1,1,1,3,4,4,3,3,1,5,4,4,4,2,1,1,2,2,4,1,3.67,2.33,4,1.33,2.67
+03-05-2023 13:17,Greater Noida college ,Noida,Public,GREATER NOIDA COLLEGE ,121,,No One,1,1,2,5,5,5,5,5,5,5,5,4,3,0,0,0,0,0,0,0,2.67,5,5,2.33,0,0
+02-09-2023 00:35,Iiit vadodara ,Vadodara,Public,IIIT VADODARA ,122,,No One,2,2,2,1,3,3,3,3,3,5,3,1,1,2,0,0,0,0,0,-2,1.67,3,3.67,1.33,0,-0.67
+3-13-2023 16:21:31,IIT Bhubaneswar ,Bhubaneshwar,Public,IIT BHUBANESWAR ,123,,Father,3,2,4,2,5,5,4,3,2,2,3,1,-1,1,-2,-2,-1,0,1,1,2.67,4.67,2.33,0.33,-1.67,0.67
+3-13-2023 17:17:38,IIIT Nagpur,Nagpur,Private,IIIT NAGPUR,124,,No One,2,3,3,4,4,4,3,3,4,4,4,1,1,0,0,0,1,1,0,0,3.33,3.67,3.67,0.67,0.33,0.33
+03-02-2023 16:07,Indira College of Commerce and Science Pune ,Pune,Public,INDIRA COLLEGE OF COMMERCE AND SCIENCE PUNE ,125,,Sibling,1,5,5,5,5,5,5,2,5,5,5,0,0,0,0,0,0,3,0,0,5,5,4,0,0,1
+03-10-2023 01:27,Jadhavpur University,Kolkata,Public/Private,JADHAVPUR UNIVERSITY,126,,Father,2,3,3,3,3,1,3,2,2,2,1,-2,-2,-2,-2,0,-2,-1,-1,-1,3,2.33,2,-2,-1.33,-1
+2-24-2023 23:22:15,Kpcmch,Kolkata,Public,KPCMCH,127,,No One,2,2,3,3,3,3,3,3,3,3,3,1,0,0,0,0,0,0,0,0,2.67,3,3,0.33,0,0
+03-05-2023 19:21,L.D.COLLEGE OF ENGINEERING,Ahemdabad,Private,L.D.COLLEGE OF ENGINEERING,128,,No One,2,5,5,5,5,5,5,5,5,5,5,0,0,0,0,0,0,0,0,0,5,5,5,0,0,0
+3-13-2023 16:32:44,"LSR, DU",Delhi,Private,"LSR, DU",129,,No One,2,2,2,1,3,3,3,2,3,4,3,1,1,2,0,0,0,1,0,-1,1.67,3,3,1.33,0,0
+02-08-2023 14:54,Mscet,Surat,Public,MSCET,130,,Father,4,4,4,4,4,4,4,4,4,4,4,0,0,0,0,0,0,0,0,0,4,4,4,0,0,0
+03-10-2023 14:13,Nit kurukshetra,Kurukshetra,Private,NIT KURUKSHETRA,131,,Mother,4,3,4,4,2,4,2,2,2,2,2,-1,-2,-2,0,-2,0,0,0,0,3.67,2.67,2,-1.67,-0.67,0
+03-06-2023 08:04,PES UNIVERSITY ,Bangalore,Private,PES UNIVERSITY ,132,,No One,2,4,4,4,4,4,3,1,1,4,4,0,0,0,0,0,1,3,3,0,4,3.67,2,0,0.33,2
+03-05-2023 14:30,PVG COET Pune ,Pune,Private,PVG COET PUNE ,133,,No One,2,3,4,4,4,5,4,4,4,4,5,2,1,1,1,0,1,1,1,1,3.67,4.33,4,1.33,0.67,1
+2-26-2023 21:43:21,Sahana ,Mysore,Private,SAHANA ,134,,No One,2,3,3,4,4,3,3,2,2,2,2,-1,-1,-2,-2,-1,-1,0,0,0,3.33,3.33,2,-1.33,-1.33,0
+02-08-2023 17:53,Scottish Church College ,Kolkata,Public,SCOTTISH CHURCH COLLEGE ,135,,Sibling,1,5,5,5,3,3,2,3,4,4,2,-3,-3,-3,-1,-1,0,-1,-2,-2,5,2.67,3.67,-3,-0.67,-1.67
+02-08-2023 14:48,Sggs nanded,Nanded,Private,SGGS NANDED,136,,No One,1,4,3,4,5,1,2,1,2,1,4,0,1,0,-1,3,2,3,2,3,3.67,2.67,1.33,0.33,1.33,2.67
+03-05-2023 13:31,Sri krishna,Bangalore,Public,SRI KRISHNA,137,,No One,2,1,2,2,1,1,2,1,1,2,2,1,0,0,1,1,0,1,1,0,1.67,1.33,1.33,0.33,0.67,0.67
+03-02-2023 11:32,Sri Venkateswara College ,Delhi,Public,SRI VENKATESWARA COLLEGE ,138,,No One,3,3,2,4,3,2,5,3,4,5,4,1,2,0,1,2,-1,1,0,-1,3,3.33,4,1,0.67,0
+03-07-2023 00:50,University of engineering and management,Kolkata,Public,UNIVERSITY OF ENGINEERING AND MANAGEMENT,139,,No One,2,1,1,1,2,2,2,2,3,4,5,4,4,4,3,3,3,3,2,1,1,2,3,4,3,2
+3-13-2023 15:33:04,Vjti,Mumbai,Public,VJTI,140,,No One,2,3,4,2,4,4,4,3,3,3,3,0,-1,1,-1,-1,-1,0,0,0,3,4,3,0,-1,0
